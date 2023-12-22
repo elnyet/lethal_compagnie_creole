@@ -1,20 +1,20 @@
 ﻿#Schermo delle impostazioni
 #Regex del microfono / dispositivo di input audio
-r:"^Current input device: \\n ([\s\S]*)$"=Périphérique d'entrée actuel: \n $1
+r:"^Current input device: \\n ([\s\S]*)$"=Périphérique d\'entrée actuel: \n $1
 
 #Altre impostazioni
 ENABLED=ACTIVÉ
-MODE: Push to talk=MODALITÀ: Appuyer-pour-parler
-MODE: Voice activation=MODALITÀ: Activation vocale
+MODE: Push to talk=MODE: Appuyer-pour-parler
+MODE: Voice activation=MODE: Activation vocale
 Master volume:=Volume général:
 
 DISPLAY=SCHERMO
-Frame rate cap:=Limite d'IPS:
+Frame rate cap:=Limite d\'IPS:
 Use monitor (V-Sync)=Utiliser la V-Sync
 Uncapped=Sans limite
 r:"^(\d|\d{2}|\d{3}) FPS$"=$1 IPS
 
-Display mode:=Mode d'affichage :
+Display mode:=Mode d\'affichage :
 Fullscreen=Plein écran
 Windowed fullscreen=Fenêtré (sans bords)
 Maximized window=Fenêtré (maximisé)
@@ -44,15 +44,15 @@ Walk left=Se décaler (Gauche)
 Walk right=Se décaler (Droite)
 Jump=Sauter
 Sprint=Sprinter
-Crouch=S'accroupir
+Crouch=S\'accroupir
 Interact=Interagir
 Ping scan=Scanner
 Item primary use= Utiliser objet (Primaire)
 Item Secondary use= Utiliser objet (Secondaire)
 Item Tertiary use= Utiliser objet (Tertiaire)
 Item drop=Lâcher objet
-Item switch left=Changer d'objet (G)
-Item switch right=Changer d'objet (D)
+Item switch left=Changer d\'objet (G)
+Item switch right=Changer d\'objet (D)
 Item inspect=Inspecter objet
 Replace furniture=Replacer de la déco
 Turn furniture=Tourner de la déco
