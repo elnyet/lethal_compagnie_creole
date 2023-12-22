@@ -1,0 +1,14 @@
+0 Days Left=0 Jours restants
+1 Day Left=1 Jour restant
+2 Days Left=2 Jours restants
+HALT!=ALERTE!
+Most profitable=Le plus rentable
+NEW PROFIT QUOTA:=NOUVEAU QUOTA:
+Paycheck!=Votre Paie !
+QUOTA REACHED!=QUOTA ATTEINT!
+Sustained the most injuries.=A subi le plus de dégâts.
+TO MEET PROFIT QUOTA=POUR ATTEINDRE LE QUOTA
+The laziest employee.=L'employé le plus inutile.
+The most paranoid employee.=L'employé le plus parano.
+Tip=Conseil
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Vous avez 0 jours restants pour atteindre le quota. Utilisez le terminal pour naviguer vers l'entreprise et vendre vos objets.

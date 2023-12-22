@@ -1,0 +1,87 @@
+﻿#Versione
+r:"^v([0-9]+)$"=v$1
+
+
+Adjust screen brightness until the symbol on the right is barely visible.=Regolare la luminosità dello schermo finché il simbolo a destra è a malapena visibile.
+Voice volume=Volume voce
+
+# Menù
+LAUNCH MODE=Mode de lancement
+> Online=> En ligne
+> LAN=> LAN 
+  Online=  En ligne
+  LAN=  LAN
+  (Recommended)= 
+
+> Host=> Créer un serveur
+> Join a crew=> Rejoindre une partie
+> Settings=> Paramètres
+> Credits=> Crédits
+Credits=Crédits
+> Quit=> Quitter
+
+Host LAN Server:=Héberger serveur LAN:
+Allow remote connections= Autoriser connexions à distance
+Local-only=Local uniquement
+
+An error occured!=Une erreur s'est produite !
+
+> Join LAN session=> Rejoindre une session lan
+(Launched in LAN mode)=(Lancement en mode LAN)
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Vous êtes en mode LAN. Quand vous autorisez des connexions à distance grâce au LAN, assurez-vous d'avoir sécurisé votre réseau grâce à un Pare-feu et/ou un VPN.
+
+Would you like to leave the game?=Vuoi uscire?
+> Confirm=> Confirmer
+> Cancel=> Annuler
+
+Server name:=Nom du serveur:
+Public=Public
+PUBLIC means your game will be visible on the server list for all to see.=PUBLIC signifie que votre partie sera visible sur la liste des serveurs.
+Friends-only=Amis uniquement
+PRIVATE means you must send invites through Steam for players to join.=AMIS UNIQUEMENT signifie vous devrez inviter vos amis grâce à Steam.
+[ Confirm ]=[Confirmer]
+[ Back ]=[Retour]
+
+Started server, joining...=Serveur démarré, en train de rejoindre...
+Loading...=Chargement...
+
+Save File=Sauvegarde
+r:"^File ([0-9]+)$"=Fichier $1
+r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\nJours: $2
+
+Servers=Serveurs
+[ Refresh ]=[Actualiser]
+Sort: near=Ordine: Proche
+Sort: far=Ordine: Lointain
+Sort: worldwide=Ordine: Mondial
+Join=Rejoindre
+> Back to menu=> Retour au menu
+
+r:"^Do you want to delete File ([0-9])\?$"=Voulez vous supprimer le fichier $1?
+Delete=Supprimer
+Go back=Revenir en arrière
+Back=Retour
+
+> Back=> Retour
+DISCARD=> Annuler
+Discard=Annuler
+Discard changes=Annuler les modifications
+Confirm=Confirmer
+Confirm changes?=Confirmer les changements ?
+Unconfirmed changes!=Changements non sauvegardés !
+
+> Resume=> Reprendre
+> Invite friends=> Inviter des amis
+
+BROADCASTED SPECIAL CODE=CODE SPÉCIAL TRANSMIS
+Press "/" to talk.=Appuyez sur "/" pour écrire.
+
+Tell autopilot ship to leave early : [RMB] (Hold)=Demander au vaisseau de partir en avance : [Clic droit] (Maintenir)
+TIP!: Hold [RMB] to vote for the autopilot ship to leave early=CONSEIL!: Maintenez [Clic droit] pour voter un départ anticipé.
+[LIFE SUPPORT: OFFLINE]=[SYSTÈME DE SURVIE: HS]
+(Dead)=(Mort)
+
+YOU ARE FIRED.=VOUS ÊTES VIRÉ.
+Fines=Dettes
+
+RECEIVING SIGNAL=TRANSMISSION ENTRANTE
