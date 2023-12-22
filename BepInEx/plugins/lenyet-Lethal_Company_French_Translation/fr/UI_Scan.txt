@@ -1,0 +1,24 @@
+﻿Brake lever=Levier moteur
+Lands the ship.=Fait atterir le vaisseau.
+
+Quota=Quota
+Sell scrap for cash.=Vendre des objets.
+
+Door controls=Commandes des portes
+Can't stay closed forever=Ne restent pas fermées\nPour toujours
+
+Training manual=Manuel de formation
+Useful info!=Informations utiles!
+
+Terminal=Terminal
+Buy flashlights and travel to new planets!=Acheter des lampes torche et voyager vers des nouvelles planètes!
+
+Coil=Chargeur
+Charges batteries=Recharge les batteries
+
+Ship=Vaisseau
+Home base=Base
+
+Main entrance=Entrée principale
+
+VISIBILITY LOW!\n\nSteam leak detected in area=VISIBILITÉ RÉDUITE!\nFuite de gaz détectée!
