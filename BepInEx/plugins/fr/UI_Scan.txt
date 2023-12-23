@@ -1,5 +1,5 @@
 ﻿Brake lever=Levier moteur
-Lands the ship.=Fait atterir le vaisseau.
+Lands the ship.=Dirige le vaisseau.
 
 Quota=Quota
 Sell scrap for cash.=Vendre des objets.
@@ -11,7 +11,7 @@ Training manual=Manuel de formation
 Useful info!=Informations utiles!
 
 Terminal=Terminal
-Buy flashlights and travel to new planets!=Acheter des lampes torche et voyager vers des nouvelles planètes!
+Buy flashlights and travel to new planets!=Achetez des objets et voyagez vers de nouvelles planètes!
 
 Coil=Chargeur
 Charges batteries=Recharge les batteries
