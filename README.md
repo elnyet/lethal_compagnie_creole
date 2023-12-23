@@ -12,7 +12,12 @@ Je remercie aussi particulièrement Maca qui à fait la version italienne du jeu
 
 Vous devez avoir BepInEx pour modder votre jeu (regardez les dépendances du mod si vous l'avez pas).
 
-Puis glissez et déposez le contenu du zip ici : `\Steam\steamapps\common\Lethal Company\`
 
-Ou utilisez un mod manager comme r2modman, ça va vraiment plus vite et vous vous perdrez pas avec les 20000 mods que vous installerez sûrement
+(Vivement recommandé)
 
+Utilisez r2modman, et installez le mod par là, c'est 5x plus simple et ça vous aidera à gérer vos mods si vous en mettez 40
+
+(Pas recommandé)
+
+Installez le mod manuellement puis glissez et déposez le contenu du zip ici : `\Steam\steamapps\common\Lethal Company\`
+à noter que je sais pas si ça marche et j'aiderais pas ceux qui installent de cette manière

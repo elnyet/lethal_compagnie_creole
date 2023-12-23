@@ -9,12 +9,12 @@ MODE: Voice activation=MODE: Activation vocale
 Master volume:=Volume général:
 
 DISPLAY=AFFICHAGE
-Frame rate cap:=Limite d\'IPS:
+Frame rate cap:=Limite d'IPS:
 Use monitor (V-Sync)=Utiliser la V-Sync
 Uncapped=Sans limite
 r:"^(\d|\d{2}|\d{3}) FPS$"=$1 IPS
 
-Display mode:=Mode d\'affichage :
+Display mode:=Mode d'affichage :
 Fullscreen=Plein écran
 Windowed fullscreen=Fenêtré (sans bords)
 Maximized window=Fenêtré (maximisé)

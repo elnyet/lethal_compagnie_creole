@@ -2,7 +2,7 @@
 r:"^v([0-9]+)$"=v$1
 
 
-Adjust screen brightness until the symbol on the right is barely visible.=Regolare la luminosità dello schermo finché il simbolo a destra è a malapena visibile.
+Adjust screen brightness until the symbol on the right is barely visible.=Réglez la luminosité jusqu'a ce que le symbole soit à peine visible.
 Voice volume=Volume voix
 
 # Menù
@@ -24,13 +24,13 @@ Host LAN Server:=Héberger serveur LAN:
 Allow remote connections= Autoriser connexions à distance
 Local-only=Local uniquement
 
-An error occured!=Une erreur s\'est produite !
+An error occured!=Une erreur s'est produite !
 
 > Join LAN session=> Rejoindre une session lan
 (Launched in LAN mode)=(Lancement en mode LAN)
-You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Vous êtes en mode LAN. Quand vous autorisez des connexions à distance grâce au LAN, assurez-vous d\'avoir sécurisé votre réseau grâce à un Pare-feu et/ou un VPN.
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Vous êtes en mode LAN. Quand vous autorisez des connexions à distance grâce au LAN, assurez-vous d'avoir sécurisé votre réseau grâce à un Pare-feu et/ou un VPN.
 
-Would you like to leave the game?=Vuoi uscire?
+Would you like to leave the game?=Voulez-vous quitter la partie ?
 > Confirm=> Confirmer
 > Cancel=> Annuler
 
@@ -51,9 +51,9 @@ r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\nJours: $2
 
 Servers=Serveurs
 [ Refresh ]=[Actualiser]
-Sort: near=Ordine: Proche
-Sort: far=Ordine: Lointain
-Sort: worldwide=Ordine: Mondial
+Sort: near=Trier: Proche
+Sort: far=Trier: Lointain
+Sort: worldwide=Trier: Mondial
 Join=Rejoindre
 > Back to menu=> Retour au menu
 

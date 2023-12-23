@@ -1,9 +1,9 @@
 {
     "name": "Traduction_FR_de_Lethal_Company",
-    "version_number": "1.0.3",
-	"authorname":"lenyet",
-	"author":"lenyet",
-    "website_url": "https://github.com/elnyet/lethal_compagnie_creole",
+    "version_number": "1.0.7",
+	"authorname":"N34r",
+	"author":"N34r",
+    "website_url": "https://github.com/elnyet/lethal_company_french_translation",
     "description": "French translation of Lethal Company",
     "dependencies":
 	[
