@@ -74,14 +74,15 @@ Unconfirmed changes!=Changements non sauvegardés !
 > Invite friends=> Inviter des amis
 
 BROADCASTED SPECIAL CODE=CODE SPÉCIAL TRANSMIS
-Press "/" to talk.=Appuyez sur "/" pour écrire.
+Press "/" to talk.="/" pour écrire.
 
 Tell autopilot ship to leave early : [RMB] (Hold)=Demander au vaisseau de partir en avance : [Clic droit] (Maintenir)
 TIP!: Hold [RMB] to vote for the autopilot ship to leave early=CONSEIL!: Maintenez [Clic droit] pour voter un départ anticipé.
 [LIFE SUPPORT: OFFLINE]=[SYSTÈME DE SURVIE: HS]
 (Dead)=(Mort)
 
-YOU ARE FIRED.=VOUS ÊTES VIRÉ.
+YOU ARE FIRED.=VIRÉ.
+CRITICAL INJURY=SANTÉ CRITIQUE
 Fines=Dettes
 
 RECEIVING SIGNAL=TRANSMISSION ENTRANTE
