@@ -35,7 +35,7 @@ Drop Zap gun : [G]=Lâcher Tazer : [G]
 Boombox=Haut-parleur
 Clipboard=Manuel
 Extension ladder=Échelle portative
-Flashlight=Torcia
+Flashlight=Lampe torche
 Jetpack=Jetpack
 Lockpicker=Scassinatore
 Pro-flashlight=Lampe torche
@@ -43,7 +43,7 @@ Radar-booster=Booster
 Shovel=Pelle
 Spray paint=Peinture en spray
 Stun grenade=Paralysante
-TZP-Inhalant=Inalatore Inhalateur TZP
+TZP-Inhalant=Inhalateur TZP
 Zap gun=Tazer
  
 Shake can : [Q]=Secouer : [Q]
