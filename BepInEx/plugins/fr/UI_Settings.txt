@@ -8,7 +8,7 @@ MODE: Push to talk=MODE: Appuyer-pour-parler
 MODE: Voice activation=MODE: Activation vocale
 Master volume:=Volume général:
 
-DISPLAY=SCHERMO
+DISPLAY=AFFICHAGE
 Frame rate cap:=Limite d\'IPS:
 Use monitor (V-Sync)=Utiliser la V-Sync
 Uncapped=Sans limite
