@@ -54,7 +54,7 @@ Servers=Serveurs
 Sort: near=Trier: Proche
 Sort: far=Trier: Lointain
 Sort: worldwide=Trier: Mondial
-Join=Rejoindre
+Join=<size\=14>Rejoindre</size>
 > Back to menu=> Retour au menu
 
 r:"^Do you want to delete File ([0-9])\?$"=Voulez vous supprimer le fichier $1?
