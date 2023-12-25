@@ -50,7 +50,7 @@ r:"^File ([0-9]+)$"=Fichier $1
 r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\nJours: $2
 
 Servers=Serveurs
-[ Refresh ]=[Actualiser]
+[ Refresh ]=<size\=14>[Actualiser]</size>
 Sort: near=Trier: Proche
 Sort: far=Trier: Lointain
 Sort: worldwide=Trier: Mondial
@@ -81,7 +81,7 @@ TIP!: Hold [RMB] to vote for the autopilot ship to leave early=CONSEIL!: Mainten
 [LIFE SUPPORT: OFFLINE]=[SYSTÈME DE SURVIE: HS]
 (Dead)=(Mort)
 
-YOU ARE FIRED.=VIRÉ.
+YOU ARE FIRED.=<size\=27>VOUS ÊTES VIRÉ</size>.
 CRITICAL INJURY=SANTÉ CRITIQUE
 Fines=Dettes
 
