@@ -15,9 +15,10 @@ Vous devez avoir BepInEx pour modder votre jeu (regardez les dépendances du mod
 
 (Vivement recommandé)
 
-Utilisez r2modman, et installez le mod par là, c'est 5x plus simple et ça vous aidera à gérer vos mods si vous en mettez 40
+Utilisez r2modman, et installez le mod par là, c'est 5x plus simple et ça vous aidera à gérer vos mods si vous en mettez 40 <br />
 
 (Pas recommandé)
 
-Installez le mod manuellement puis glissez et déposez le contenu du zip ici : `\Steam\steamapps\common\Lethal Company\`
-à noter que je sais pas si ça marche et j'aiderais pas ceux qui installent de cette manière
+Dézippez le mod et mettez le contenu du dossier plugins dans un dossier appelé `N34r-Traduction_FR_de_Lethal_Company`, faites la même pour core mais pas config <br />
+Puis glissez et déposez ici : `\Steam\steamapps\common\Lethal Company\` <br />
+à noter que je sais pas si ça marche et j'aiderais pas ceux qui installent de cette manière mais en théorie, vu qu'avec le mod manager ça marche comme ça ça devrait marcher <br />
