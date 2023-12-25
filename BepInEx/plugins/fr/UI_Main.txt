@@ -21,7 +21,7 @@ Credits=Crédits
 > Quit=> Quitter
 
 Host LAN Server:=Héberger serveur LAN:
-Allow remote connections= Autoriser connexions à distance
+Allow remote connections=Autoriser connexions à distance
 Local-only=Local uniquement
 
 An error occured!=Une erreur s'est produite !
@@ -81,7 +81,7 @@ TIP!: Hold [RMB] to vote for the autopilot ship to leave early=CONSEIL!: Mainten
 [LIFE SUPPORT: OFFLINE]=[SYSTÈME DE SURVIE: HS]
 (Dead)=(Mort)
 
-YOU ARE FIRED.=<size\=27>VOUS ÊTES VIRÉ</size>.
+YOU ARE FIRED.=<size\=52>VOUS ÊTES VIRÉ</size>.
 You did not meet the profit quota before the deadline.=Vous n'avez pas atteint le quota avant l'échéance.
 CRITICAL INJURY=SANTÉ CRITIQUE
 Fines=Dettes
