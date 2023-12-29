@@ -5,7 +5,7 @@ Quota=Quota
 Sell scrap for cash.=Vendez des objets.
 
 Door controls=Commandes des portes
-Can't stay closed forever=Ne restent pas fermées\nPour toujours
+Can't stay closed forever=Ferment temporairement\nles portes.
 
 Training manual=Manuel de formation
 Useful info!=Pour des infos utiles!
@@ -17,7 +17,7 @@ Coil=Chargeur
 Charges batteries=Pour recharger les batteries
 
 Ship=Vaisseau
-Home base=Base
+Home base=Votre base
 
 Main entrance=Entrée principale
 
