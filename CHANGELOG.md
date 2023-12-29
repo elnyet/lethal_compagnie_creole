@@ -1,7 +1,7 @@
 # v1.1.1
 
 corrections de fautes et normalement je dis bien normalement ya plus d'accents là ou la police d'écriture les supporte pas 
-retrait de la majorité des \' ou c'était pas nécessaire
+retrait de la majorité des \\' ou c'était pas nécessaire
 revert de certaines trad
 tentative de traduire des mods, normalement ça marche mais je peux pas trop test
 et autres corrections mineures
