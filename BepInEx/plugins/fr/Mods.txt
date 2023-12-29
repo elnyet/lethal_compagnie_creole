@@ -1,8 +1,12 @@
 # SpectateEnnemies
 
 No enemies to spectate=Pas d'ennemis à regarder
-\n\n\n\n\nSwitch to=\n\n\n\n\nRegarder
+Switch to=Regarder
 Players=Joueurs
 Enemies=Ennemis
-\nToggle Flashlight : [RMB] (Click)=\nAllumer Torche : [Clic Droit]
-\nConfig Menu : [Insert]=\nMenu de Config : [Insert]
+Toggle Flashlight : [RMB] (Click)=\nAllumer Torche : [Clic Droit]
+Config Menu : [Insert]=\nMenu de Config : [Insert]
+
+# mod pour avoir des trucs dans des slots séparés la 
+
+Toggle Laser : [LMB][F]=Allumer : [Clic Gauche][F]
