@@ -1,0 +1,8 @@
+# SpectateEnnemies
+
+No enemies to spectate=Pas d'ennemis à regarder
+\n\n\n\n\nSwitch to=\n\n\n\n\nRegarder
+Players=Joueurs
+Enemies=Ennemis
+\nToggle Flashlight : [RMB] (Click)=\nAllumer Torche : [Clic Droit]
+\nConfig Menu : [Insert]=\nMenu de Config : [Insert]
