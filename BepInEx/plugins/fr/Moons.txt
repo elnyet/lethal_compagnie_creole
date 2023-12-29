@@ -20,8 +20,8 @@ Abandoned=Abandonnée
 21 Offense=21 Offense
 220 Assurance=220 Assurance
 41 Experimentation=41 Experimentation
-56 Vow=56 Voeu
-61 March=61 Mars
+56 Vow=56 Vow
+61 March=61 March
 71 Gordion=71 Gordion
 85 Rend=85 Rend
 
