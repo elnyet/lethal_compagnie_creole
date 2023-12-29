@@ -10,3 +10,4 @@ Config Menu : [Insert]=\nMenu de Config : [Insert]
 # mod pour avoir des trucs dans des slots séparés la 
 
 Toggle Laser : [LMB][F]=Allumer : [Clic Gauche][F]
+Hold: [Alt]=Maintenez: [ALT]
