@@ -1,6 +1,6 @@
 ﻿#Schermo delle impostazioni
 #Regex del microfono / dispositivo di input audio
-r:"^Current input device: \\n ([\s\S]*)$"=Périphérique d\'entrée actuel: \n $1
+r:"^Current input device: \\n ([\s\S]*)$"=Périphérique d'entrée actuel: \n $1
 
 #Altre impostazioni
 ENABLED=ACTIVÉ
