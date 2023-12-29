@@ -27,8 +27,8 @@ Abandoned=Abandonnée
 
 ## Descrizioni Pianeti
 # 8-Titan
-Frozen, rocky. This moon was mined for resources. It\'s easy to get lost here.=Gelée, rocheuse. Cette lune a été exploitée pour ses ressources. C\'est facile de se perdre ici.
-Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Des entités dangereuses semblent s\'être installées dans le vaste réseau de tunnels.\n
+Frozen, rocky. This moon was mined for resources. It\'s easy to get lost here.=Gelée, rocheuse. Cette lune a été exploitée pour ses ressources. C'est facile de se perdre ici.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Des entités dangereuses semblent s'être installées dans le vaste réseau de tunnels.\n
 
 # 220-Assurance
 # 21-Offense
@@ -42,8 +42,8 @@ Dominated by a few species.\n=Des espèces dominent ici.\n
 
 # 5-Vow
 Humid. Rough terrain. Teeming with plant-life.=Humide. Terrain rigide. Beaucoup de végétation.
-A competitive ecosystem supports aggressive lifeforms.\n=L\'écosystème supporte les formes de vie aggressives.\n
-Oxygen critically low!=Niveau d\'oxygène critique !
+A competitive ecosystem supports aggressive lifeforms.\n=L'écosystème supporte les formes de vie aggressives.\n
+Oxygen critically low!=Niveau d'oxygène critique !
 
 #March?
 Expansive. Constant rain.=Pluie forte et constante.
@@ -53,7 +53,7 @@ Expansive.=Vaste.
 # 71-Gordion
 Unknown=Inconnu
 No land masses. Continual storms.=Pas de surface.\nTempêtes continues.
-Unknown\nWhere the Company resides.\n=Inconnu\nLà où l\'entreprise réside.\n
+Unknown\nWhere the Company resides.\n=Inconnu\nLà où l'entreprise réside.\n
 
 ## Dine Rend & March aren\'t captured by the regex for some reason, trying bruteforce approach:
 # Rend
