@@ -1,20 +1,20 @@
 ﻿Brake lever=Levier moteur
-Lands the ship.=Dirige le vaisseau.
+Lands the ship.=Pour diriger le vaisseau.
 
 Quota=Quota
-Sell scrap for cash.=Vendre des objets.
+Sell scrap for cash.=Vendez des objets.
 
 Door controls=Commandes des portes
 Can't stay closed forever=Ne restent pas fermées\nPour toujours
 
 Training manual=Manuel de formation
-Useful info!=Informations utiles!
+Useful info!=Pour des infos utiles!
 
 Terminal=Terminal
-Buy flashlights and travel to new planets!=Achetez des objets et voyagez vers de nouvelles planètes!
+Buy flashlights and travel to new planets!=Achetez des objets et voyagez vers de nouvelles planetes!
 
 Coil=Chargeur
-Charges batteries=Recharge les batteries
+Charges batteries=Pour recharger les batteries
 
 Ship=Vaisseau
 Home base=Base
