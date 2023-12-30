@@ -49,6 +49,7 @@ Use cash register : [LMB]=Utiliser la caisse : [Clic gauche]
 Use door : [E]=Utiliser la porte : [E]
 Use key : [LMB]=Utiliser la clé : [Clic gauche]
 Use ladder : [E]=Utiliser l'échelle : [E]
+Use remote : [LMB]=Utiliser télécommande : [Clic gauche]
 
 [ Not holding items ]=[Rien en main]
 [Pulling valve]=[En train de tourner une vanne]
