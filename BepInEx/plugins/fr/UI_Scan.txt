@@ -22,3 +22,9 @@ Home base=Votre base
 Main entrance=Entrée principale
 
 VISIBILITY LOW!\n\nSteam leak detected in area=VISIBILITÉ RÉDUITE!\nFuite de gaz détectée!
+
+# Causes de mort
+
+Cause of death:=Cause de mort:
+Gunshots=Fusillade
+
