@@ -11,8 +11,8 @@ Weather: Rainy=Meteo: Pluie
 Weather: Stormy=Meteo: Tempête
 
 #Population
-None=Aucune
-Abandoned=Abandonnée
+None= Aucune
+Abandoned= Abandonnée
 
 # Pianeti, rimasti inVarieti. Anche se potrei considerare di invertire nome e numero (8 Titan -> Titan 8?)
 7 Dine=7 Dine
@@ -27,33 +27,33 @@ Abandoned=Abandonnée
 
 ## Descrizioni Pianeti
 # 8-Titan
-Frozen, rocky. This moon was mined for resources. It\'s easy to get lost here.=Gelée, rocheuse. Cette lune a été exploitée pour ses ressources. C'est facile de se perdre ici.
-Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Des entités dangereuses semblent s'être installées dans le vaste réseau de tunnels.\n
+Frozen, rocky. This moon was mined for resources. It\'s easy to get lost here.= Gelée, rocheuse. Cette lune a été exploitée pour ses ressources. C'est facile de se perdre ici.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.\n= Des entités dangereuses semblent s'être installées dans le vaste réseau de tunnels.\n
 
 # 220-Assurance
 # 21-Offense
-Jagged and weathered terrain. =Terrain dentelé et érodé.
-Ecosystem supports territorial behaviour.=L’écosystème supporte le comportement territorial.
-Ecosystem supports territorial behaviour.\n=L’écosystème supporte le comportement territorial.\n
+Jagged and weathered terrain. = Terrain dentelé et érodé.
+Ecosystem supports territorial behaviour.= L’écosystème supporte le comportement territorial.
+Ecosystem supports territorial behaviour.\n= L’écosystème supporte le comportement territorial.\n
 
 # 41-Experimentation
-Arid. Thick haze, worsened by industrial artifacts.=Aride. Brume épaisse, empirée par des artéfacts industriels
-Dominated by a few species.\n=Des espèces dominent ici.\n
+Arid. Thick haze, worsened by industrial artifacts.= Aride. Brume épaisse, empirée par des artéfacts industriels
+Dominated by a few species.\n= Certaines espèces dominent ici.\n
 
 # 5-Vow
-Humid. Rough terrain. Teeming with plant-life.=Humide. Terrain rigide. Beaucoup de végétation.
-A competitive ecosystem supports aggressive lifeforms.\n=L'écosystème supporte les formes de vie aggressives.\n
-Oxygen critically low!=Niveau d'oxygène critique !
+Humid. Rough terrain. Teeming with plant-life.= Humide. Terrain rigide. Beaucoup de végétation.
+A competitive ecosystem supports aggressive lifeforms.\n= L'écosystème supporte les formes de vie aggressives.\n
+Oxygen critically low!= Niveau d'oxygène critique !
 
 #March?
-Expansive. Constant rain.=Pluie forte et constante.
-Expansive.=Vaste.
-\nConstant rain=Pluie constante.
+Expansive. Constant rain.= Pluie forte et constante.
+Expansive.= Vaste.
+\nConstant rain= Pluie constante.
 
 # 71-Gordion
-Unknown=Inconnu
-No land masses. Continual storms.=Pas de surface.\nTempêtes continues.
-Unknown\nWhere the Company resides.\n=Inconnu\nLà où l'entreprise réside.\n
+Unknown= Inconnu
+No land masses. Continual storms.= Pas de surface.\nTempêtes continues.
+Unknown\nWhere the Company resides.\n= Là où l'entreprise réside.\n
 
 ## Dine Rend & March aren\'t captured by the regex for some reason, trying bruteforce approach:
 # Rend
