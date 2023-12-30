@@ -2,13 +2,19 @@
 1 Day Left=1 Jour restant
 2 Days Left=2 Jours restants
 HALT!=ALERTE!
-* Most profitable=* L'employé le plus rentable.
 NEW PROFIT QUOTA:=NOUVEAU QUOTA:
 Paycheck!=Votre Paie !
 QUOTA REACHED!=QUOTA ATTEINT!
-* Sustained the most injuries.=* La plus grosse victime de l'équipage.
 TO MEET PROFIT QUOTA=POUR ATTEINDRE LE QUOTA
-* The laziest employee.=* L'employé le plus inutile.
-* The most paranoid employee.=* L'employé le plus parano.
 Tip=Conseil
 You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Vous avez 0 jours restants pour atteindre le quota. Utilisez le terminal pour naviguer vers l'entreprise et vendre vos objets.
+
+# notes
+
+Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=Notes:* L'employé le plus inutile* L'employé le plus parano* L'employé le plus robuste
+Notes:* \n* The most paranoid employee.\n* Sustained the most injuries\n* Most profitable\n=Notes: * * L'employé le plus parano.\n* Qui a subi le plus de blessures\n* Le plus rentable\n
+Notes:* \n* The laziest employee.\n=Notes: * * L'employé le plus inutile\n
+Notes:* \n* Sustained the most injuries.\n=Notes: * * Qui a subi le plus de blessures\n
+Notes:* \n* The most paranoid employee.\n* Most profitable\n=Notes: * * L'employé le plus parano\n* Le plus rentable\n
+Notes:* \n* The most paranoid employee.\n=Notes: * * L'employé le plus parano\n
+Notes:* \n* Most profitable\n=Notes: * * Le plus rentable\n
