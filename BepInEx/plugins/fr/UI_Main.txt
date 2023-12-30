@@ -17,7 +17,6 @@ LAUNCH MODE=Mode de lancement
 > Join a crew=> Rejoindre une partie
 > Settings=> Paramètres
 > Credits=> Crédits
-Credits=Crédits
 > Quit=> Quitter
 
 Host LAN Server:=Héberger serveur LAN:
