@@ -51,7 +51,7 @@ r:"^File ([0-9]+)$"=Fichier $1
 r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\nJours: $2
 
 Servers=Serveurs
-[ Refresh ]=<size\=14>[Actualiser]</size>
+[ Refresh ]=<size\=16>[Actualiser]</size>
 Sort: near=Trier: Proche
 Sort: far=Trier: Lointain
 Sort: worldwide=Trier: Mondial
