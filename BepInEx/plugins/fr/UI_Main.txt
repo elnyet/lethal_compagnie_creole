@@ -76,7 +76,7 @@ Unconfirmed changes!=Changements non sauvegardés !
 BROADCASTED SPECIAL CODE=CODE SPÉCIAL TRANSMIS
 Press "/" to talk.="/" pour écrire.
 
-Tell autopilot ship to leave early : [RMB] (Hold)=Demander au vaisseau de partir en avance : [Clic droit] (Maintenir)
+Tell autopilot ship to leave early : [RMB] (Hold)=Demander un départ anticipé : [Clic droit] (Maintenir)
 TIP!: Hold [RMB] to vote for the autopilot ship to leave early=CONSEIL!: Maintenez [Clic droit] pour voter un départ anticipé.
 [LIFE SUPPORT: OFFLINE]=[SYSTÈME DE SURVIE: HS]
 (Dead)=(Mort)
