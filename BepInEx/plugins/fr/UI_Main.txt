@@ -25,6 +25,8 @@ Allow remote connections=Autoriser connexions à distance
 Local-only=Local uniquement
 
 An error occured!=Une erreur s'est produite !
+Could not connect to Steam servers! (If you just want to play on your local network, choose LAN on launch.)=Erreur de connexion à Steam ! (Si vous souhaitez jouer en local, choisissez LAN au lancement du jeu.)
+Continue=Continuer
 
 > Join LAN session=> Rejoindre une session lan
 (Launched in LAN mode)=(Lancement en mode LAN)
