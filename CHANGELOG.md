@@ -1,10 +1,17 @@
-# v1.1.1
+# v1.1.3
 
-corrections de fautes et normalement je dis bien normalement ya plus d'accents là ou la police d'écriture les supporte pas 
-retrait de la majorité des \\' ou c'était pas nécessaire
-revert de certaines trad
-tentative de traduire des mods, normalement ça marche mais je peux pas trop test
-et autres corrections mineures
+la brosse n'est pas un pinceau <br />
+tentative de trad des causes de morts, pour l'instant j'ai que trad la mort par tourelle parce que j'avais que ça mdr <br />
+normalement les notes des employés sur l'écran de résultat sont trad (j'espère) <br />
+corrections mineures
+
+# v1.1.1 et v1.1.2
+
+corrections de fautes et normalement je dis bien normalement ya plus d'accents là ou la police d'écriture les supporte pas <br />
+retrait de la majorité des \\' ou c'était pas nécessaire <br />
+revert de certaines trad <br />
+tentative de traduire des mods, normalement ça marche mais je peux pas trop test <br />
+et autres corrections mineures <br />
 
 # v1.1.0
 
