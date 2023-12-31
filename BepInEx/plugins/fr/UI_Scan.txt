@@ -25,6 +25,17 @@ VISIBILITY LOW!\n\nSteam leak detected in area=VISIBILITÉ RÉDUITE!\nFuite de g
 
 # Causes de mort
 
-Cause of death:=Cause de mort:
+r:"^Body of (.+)$"=Cadavre de $1
+sr:"^Cause of death: (.+)$"=Cause de mort: $1
+
 Gunshots=Fusillade
+Bludgeoning=Assassinat
+Blast=Explosion
+Kicking=Coups
+Unknown=Inconnue
+Abandoned=Abandon
+Drowning=Noyade
+Mauling=Mutilation
+Gravity=Chute
+Crushing=Ecrasement
 
