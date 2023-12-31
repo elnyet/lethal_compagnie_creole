@@ -1,3 +1,9 @@
+# v1.1.5
+
+LE TERMINAL (reste encore un peu un bêta, les commandes sont toujours en anglais ce qui est chelou et ya certainement quelques erreurs MAIS AU MOINS IL EST LA)<br />
+
+ET BONNE ANNÉE 2024 LES GARS WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO <br />
+
 # v1.1.4
 
 qq changements mineurs et je viens de découvrir que pour trad le terminal il faut un autre mod qui est NewTerminal, ce qui fait que si vous l'installez là mtn en combinant mon mod bah vous avez un terminal a moitié traduit <br />
