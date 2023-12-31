@@ -7,7 +7,7 @@
     "description": "French translation of the UI/HUD and the ingame terminal",
     "dependencies":
 	[
-	"BepInEx-BepInExPack-5.4.2100"
+	"BepInEx-BepInExPack-5.4.2100",
 	"Aavild-NewTerminal-1.4.0"
 	]
 }
