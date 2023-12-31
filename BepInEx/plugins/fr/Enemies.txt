@@ -18,5 +18,5 @@ Nutcracker=Casse-noisette
 Roaming locusts=Criquets errants
 Snare flea=Puce
 Spore lizard=Lézard à spores
-Thumper=Ranpant
+Thumper=Rampant
 Turret=Tourelle
