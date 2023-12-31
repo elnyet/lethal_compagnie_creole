@@ -11,10 +11,7 @@ You have 0 days left to meet the quota. Use the terminal to route to the company
 
 # notes
 
-Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=Notes:* L'employé le plus inutile* L'employé le plus parano* L'employé le plus robuste
-Notes:* \n* The most paranoid employee.\n* Sustained the most injuries\n* Most profitable\n=Notes: * * L'employé le plus parano.\n* Qui a subi le plus de blessures\n* Le plus rentable\n
-Notes:* \n* The laziest employee.\n=Notes: * * L'employé le plus inutile\n
-Notes:* \n* Sustained the most injuries.\n=Notes: * * Qui a subi le plus de blessures\n
-Notes:* \n* The most paranoid employee.\n* Most profitable\n=Notes: * * L'employé le plus parano\n* Le plus rentable\n
-Notes:* \n* The most paranoid employee.\n=Notes: * * L'employé le plus parano\n
-Notes:* \n* Most profitable\n=Notes: * * Le plus rentable\n
+r:"(.*)Most profitable(.*)"=$1L'employé le plus rentable\n
+r:"(.*)The laziest employee(.*)"=$1L'employé le plus inutile\n
+r:"(.*)The most paranoid employee(.*)"=$1L'employé le plus parano\n
+r:"(.*)Sustained the most injuries(.*)"=$1La plus grosse victime\n
