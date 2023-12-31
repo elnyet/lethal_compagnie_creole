@@ -12,7 +12,7 @@ r:"^([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) casualties: (-[0-9]+%)\\n\(([2-9]?[1]) bo
 r:"^([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) casualties: (-[0-9]+%)\\n\(([2-9]?[2,3,4]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
 r:"^([2-9]?[1]) casualties: (-[0-9]+%)\\n\(([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
 r:"^([2-9]?[1]) casualties: (-[0-9]+%)\\n\(([2-9]?[1]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
-r:"^([2-9]?[1]) casualties: (-[0-9]+%)\\n\(([2-9]?[2,3,4]) bodies recovered\)$"=$1 pertes: $2\\n($3 cadavres récupreres)
+r:"^([2-9]?[1]) casualties: (-[0-9]+%)\\n\(([2-9]?[2,3,4]) bodies recovered\)$"=$1 pertes: $2\\n($3 cadavres recupreres)
 r:"^([2-9]?[2,3,4]) casualties: (-[0-9]+%)\\n\(([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
 r:"^([2-9]?[2,3,4]) casualties: (-[0-9]+%)\\n\(([2-9]?[1]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
 r:"^([2-9]?[2,3,4]) casualties: (-[0-9]+%)\\n\(([2-9]?[2,3,4]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
