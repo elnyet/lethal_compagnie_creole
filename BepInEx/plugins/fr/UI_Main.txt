@@ -87,5 +87,6 @@ YOU ARE FIRED.=<size\=52>VOUS ÊTES VIRÉ</size>.
 You did not meet the profit quota before the deadline.=Vous n'avez pas atteint le quota avant l'échéance.
 CRITICAL INJURY=SANTÉ CRITIQUE
 Fines=Dettes
+r:"^Found journal entry(.+)"=Entree de journal obtenue$1 
 
 RECEIVING SIGNAL=TRANSMISSION ENTRANTE
