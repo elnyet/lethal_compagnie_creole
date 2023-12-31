@@ -23,11 +23,11 @@ Puis glissez et déposez ici : `\Steam\steamapps\common\Lethal Company\` <br />
 Ce qui est fait: <br />
   -L'ATH en général (tout ce qui est important à la jouabilité)<br />
   -Les textures contenant du texte qui serait jugé comme important (comme l'avertissement de la saisie de l'apparatus ou l'écran de résultat) <br />
+  -LE TERMINAL LES GARS C PAS UNE BLAGUE YA LE TERMINAL <br />
 
 Ce qui est pas fait (par ordre de priorité):<br />
   -Les causes de mort<br />
   -Les mods (à savoir que je peux pas preshot tout les mods qui vont sortir sachant qu'il y en a déjà plein, je vais surtout essayer de traduire les mods avec lesquels je joue)<br />
-  -Le terminal, ce qui inclut les logs de sigurd et le bestiaire (nécessite un autre mod car le terminal ne peut pas être traduit directement)<br />
   -Un doublage FR (fait par mes potes ou moi même jsp mais dans un mod séparé)<br />
 
 N'oubliez pas que c'est une traduction amateur et qu'il peut y avoir des erreurs, contactez moi sur discord @lenyet ou faites une issue sur le github pour me prévenir d'éventuelles erreurs <br />
