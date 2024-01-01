@@ -7,7 +7,6 @@ Paycheck!=Votre Paie !
 QUOTA REACHED!=QUOTA ATTEINT!
 TO MEET PROFIT QUOTA=POUR ATTEINDRE LE QUOTA
 Tip=Conseil
-You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Vous avez 0 jours restants pour atteindre le quota. Utilisez le terminal pour naviguer vers l'entreprise et vendre vos objets.
 
 # notes
 
@@ -15,3 +14,15 @@ r:"(.*)Most profitable(.*)"=$1L'employé le plus rentable\n
 r:"(.*)The laziest employee(.*)"=$1L'employé le plus inutile\n
 r:"(.*)The most paranoid employee(.*)"=$1L'employé le plus parano\n
 r:"(.*)Sustained the most injuries(.*)"=$1La plus grosse victime\n
+
+# conseils (j'ai oublié de les faire)
+
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Vous avez 0 jours restants pour atteindre le quota. Utilisez le terminal pour naviguer vers l'entreprise et vendre vos objets.
+Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Jetez vos objets métaliques maintenant ! On a détecté de l'électricité statique. Vous allez bientôt vous faire foudroyer.
+The vehicle returned with your purchased items. Our delivery fee cannot be refunded.=Le véhicule est revenu avec vos objets. Les frais de livraison ne seront pas remboursés.
+To sell, use the terminal to route the ship to the company building.=Pour vendre, accédez au terminal pour diriger le vaisseau vers l'entreprise.
+You have landed in an eclipse. Exercise caution!=Vous avez atteri pendant une éclipse. Restez sur vos gardes.
+Use the ship computer terminal to access secure doors.=Utilisez le terminal pour interagir avec les portes sécurisées du complexe.
+
+Items missed!=Objets ratés!
+
