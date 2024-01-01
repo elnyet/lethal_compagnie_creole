@@ -1,7 +1,7 @@
 # v1.1.8
 
 j'ai oublié de mettre les petit tips quand tu lances pour la première fois le jeu <br />
-ajout de traductions pour Employee Assignments
+ajout de traductions pour Employee Assignments, pas encore finie car juste certains trucs en haut a droite sont traduits
 
 # v1.1.7
 
