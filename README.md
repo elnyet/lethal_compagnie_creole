@@ -32,3 +32,18 @@ Ce qui est pas fait (par ordre de priorité):<br />
 
 N'oubliez pas que c'est une traduction amateur et qu'il peut y avoir des erreurs, contactez moi sur discord @lenyet ou faites une issue sur le github pour me prévenir d'éventuelles erreurs <br />
 Notez aussi que je joue pas au jeu h24, donc je peux pas réagir vite sur certaines erreurs<br />
+
+![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/db25d22a-0a31-4d22-89b3-efeada85ffe9)
+![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/7466330f-83ba-4c90-a554-cc7d0d2a2cb5)
+![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/9f0054b0-af4d-4114-b961-8c13a6744e5c)
+![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/d6c8b9c7-7ce1-4909-a086-c0b5ec7c6ad3)
+![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/93662d0a-3139-4064-9ecd-941d19dc6ed6)
+![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/41fadd7b-309b-41f1-a4f8-981f1cd1c22e)
+
+
+
+
+
+
+
+
