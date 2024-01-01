@@ -10,10 +10,10 @@ Tip=Conseil
 
 # notes
 
-r:"(.*)Most profitable(.*)"=$1L'employé le plus rentable\n
-r:"(.*)The laziest employee(.*)"=$1L'employé le plus inutile\n
-r:"(.*)The most paranoid employee(.*)"=$1L'employé le plus parano\n
-r:"(.*)Sustained the most injuries(.*)"=$1La plus grosse victime\n
+r:"(.*)Most profitable(.*)"=$1Le plus rentable.\n
+r:"(.*)The laziest employee(.*)"=$1Le plus inutile.\n
+r:"(.*)The most paranoid employee(.*)"=$1Le plus parano.\n
+r:"(.*)Sustained the most injuries(.*)"=$1La plus grosse victime.\n
 
 # conseils (j'ai oublié de les faire)
 
