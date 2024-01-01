@@ -184,7 +184,7 @@ Drop Yield sign : [G]=Lâcher Panneau "Cédez le passage" : [G]
 
 # Shotgun
 
-Fire : [LMB]=Tirer : [Clic gauche]
-Reload : [E]=Recharger : [E]
-Turn safety on: [Q]=Activer la sécurité : [Q]
-Turn safety off: [Q]=Retirer la sécurité : [Q]
+Fire : [LMB]=Tirer: [Clic gauche]
+Reload : [E]=Recharger: [E]
+Turn safety on: [Q]=Activer la sécurité: [Q]
+Turn safety off: [Q]=Retirer la sécurité: [Q]
