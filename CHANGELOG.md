@@ -1,3 +1,7 @@
+# v1.1.7
+
+j'ai mis des images bien stylées sa mère dans le readme
+
 # v1.1.6
 
 g réglé le problème qui faisait que certaines commandes du terminal et descriptions étaient tjrs en anglais <br />
