@@ -20,7 +20,7 @@ Puis glissez et déposez ici : `\Steam\steamapps\common\Lethal Company\` <br />
 
 ### ✅ Roadmap (progression du mod)
 
-Quasiment tout est traduit, ducoup ce qui reste ça serait de traduire les mods des autres gens et un doublage FR
+Quasiment tout est traduit (il reste soit des fautes, des erreurs de formatage ou des restes anglais), ducoup ce qui reste ça serait de traduire les mods des autres gens et un doublage FR
 
 N'oubliez pas que c'est une traduction amateur et qu'il peut y avoir des erreurs, contactez moi sur discord @lenyet ou faites une issue sur le github pour me prévenir d'éventuelles erreurs <br />
 Notez aussi que je joue pas au jeu h24, donc je peux pas réagir vite sur certaines erreurs<br />
