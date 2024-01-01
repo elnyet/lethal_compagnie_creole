@@ -20,21 +20,13 @@ Puis glissez et déposez ici : `\Steam\steamapps\common\Lethal Company\` <br />
 
 ### ✅ Roadmap (progression du mod)
 
-Ce qui est fait: <br />
-  -L'ATH en général (tout ce qui est important à la jouabilité)<br />
-  -Les textures contenant du texte qui serait jugé comme important (comme l'avertissement de la saisie de l'apparatus ou l'écran de résultat) <br />
-  -LE TERMINAL LES GARS C PAS UNE BLAGUE YA LE TERMINAL <br />
-
-Ce qui est pas fait (par ordre de priorité):<br />
-  -Les causes de mort<br />
-  -Les mods (à savoir que je peux pas preshot tout les mods qui vont sortir sachant qu'il y en a déjà plein, je vais surtout essayer de traduire les mods avec lesquels je joue)<br />
-  -Un doublage FR (fait par mes potes ou moi même jsp mais dans un mod séparé)<br />
+Quasiment tout est traduit, ducoup ce qui reste ça serait de traduire les mods des autres gens et un doublage FR
 
 N'oubliez pas que c'est une traduction amateur et qu'il peut y avoir des erreurs, contactez moi sur discord @lenyet ou faites une issue sur le github pour me prévenir d'éventuelles erreurs <br />
 Notez aussi que je joue pas au jeu h24, donc je peux pas réagir vite sur certaines erreurs<br />
 
 ![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/db25d22a-0a31-4d22-89b3-efeada85ffe9)
-![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/7466330f-83ba-4c90-a554-cc7d0d2a2cb5)
+![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/84504ad2-429c-4258-9f3c-ce2d4cc81e30)
 ![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/9f0054b0-af4d-4114-b961-8c13a6744e5c)
 ![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/d6c8b9c7-7ce1-4909-a086-c0b5ec7c6ad3)
 ![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/93662d0a-3139-4064-9ecd-941d19dc6ed6)
