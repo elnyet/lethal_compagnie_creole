@@ -1,3 +1,14 @@
+# v1.1.6
+
+g réglé le problème qui faisait que certaines commandes du terminal et descriptions étaient tjrs en anglais <br />
+
+Problèmes que je vais fix : <br />
+-Les ITEMS (sauf les upgrades) du shop sont pas traduits CEPENDANT il faut les écrire en FR <br />
+-Certains textes sont pas traduits, mais c'est pas des trucs vraiment nécessaires à ce point là <br />
+-Il y'a des fautes (forcément je vais les fix pas de problème) et des \ inutiles/en trop <br />
+
+jsuis refait ça marche en tt cas et j'ai redesign le logo du mod pcq je me faisais chier <br />
+
 # v1.1.5
 
 LE TERMINAL (reste encore un peu un bêta, les commandes sont toujours en anglais ce qui est chelou et ya certainement quelques erreurs MAIS AU MOINS IL EST LA)<br />
