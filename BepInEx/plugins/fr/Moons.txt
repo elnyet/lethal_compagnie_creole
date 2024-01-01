@@ -1,4 +1,4 @@
-﻿# CONDITIONSnCONDITIONS meteo
+# CONDITIONSnCONDITIONS meteo
 \nWeather: Eclipsed=\nMeteo: Éclipse
 \nWeather: Flooded=\nMeteo: Inondé
 \nWeather: Foggy=\nMeteo: Brouillard
@@ -53,7 +53,7 @@ Expansive.= Vaste.
 # 71-Gordion
 Unknown= Inconnu
 No land masses. Continual storms.= Pas de surface.\nTempêtes continues.
-Unknown\nWhere the Company resides.\n= Là où l'entreprise réside.\n
+Unknown\nWhere the Company resides.\n=Inconnue\nLà où l'Entreprise réside.\n
 
 ## Dine Rend & March aren\'t captured by the regex for some reason, trying bruteforce approach:
 # Rend
