@@ -16,6 +16,7 @@ LAUNCH MODE=Mode de lancement
 > Host=> Créer un serveur
 > Join a crew=> Rejoindre une partie
 > Settings=> Paramètres
+> Credits=> Crédits
 Credits=Crédits
 > Quit=> Quitter
 
