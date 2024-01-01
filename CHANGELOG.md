@@ -1,3 +1,8 @@
+# v1.1.8
+
+j'ai oublié de mettre les petit tips quand tu lances pour la première fois le jeu <br />
+ajout de traductions pour Employee Assignments
+
 # v1.1.7
 
 j'ai mis des images bien stylées sa mère dans le readme
