@@ -1,3 +1,7 @@
+# v1.2.1
+
+jesse nous devons traduire
+
 # v1.2.0
 
 corrections mineures
