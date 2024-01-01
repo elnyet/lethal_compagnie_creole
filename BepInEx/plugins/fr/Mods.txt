@@ -1,12 +1,9 @@
 # SpectateEnnemies
 
 No enemies to spectate=Pas d'ennemis à regarder
-
-# les lignes en commentaire ne marchent pas, pour je ne sais quelle raison, pas une priorité ds tous les cas
-#\n\n\n\n\nSwitch to=\n\n\n\n\nRegarder
-#Players=Joueurs
-#Enemies=Ennemis
-#\nToggle Flashlight : [RMB] (Click)=\nAllumer Torche : [Clic Droit]
+\nToggle Flashlight : [RMB] (Click)\nConfig Menu : [Insert]=\nAllumer torche : [Clic Droit]\nConfig Menu : [Insert]
+Switch to Enemies: [E]=Regarder les ennemis: [E]
+Switch to Players: [E]=Regarder l'équipage: [E]
 
 # mod pour avoir des trucs dans des slots séparés la 
 
