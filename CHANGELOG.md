@@ -1,3 +1,8 @@
+# v1.1.9
+
+ATTENTION !! les commandes du terminal sont re en anglais, certains trucs n'étaient pas traduits comme les items dans le shop, ce qui pose des gros problèmes de compréhension, donc j'ai adapté les textes pour indiquer les commandes en anglais et faut utiliser celles en anglais ducoup
+corrections mineures en passant
+
 # v1.1.8
 
 j'ai oublié de mettre les petit tips quand tu lances pour la première fois le jeu <br />
