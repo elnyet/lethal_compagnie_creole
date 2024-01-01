@@ -51,6 +51,7 @@ Use key : [LMB]=Utiliser la clé : [Clic gauche]
 Use ladder : [E]=Utiliser l'échelle : [E]
 Use remote : [LMB]=Utiliser télécommande : [Clic gauche]
 Use horn : [LMB]=Klaxonner : [Clic gauche]
+Use hairdryer : [LMB]=Utiliser sèche-cheveux [Clic gauche]
 
 [ Not holding items ]=[Rien en main]
 [Pulling valve]=[En train de tourner une vanne]
