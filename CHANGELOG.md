@@ -1,11 +1,13 @@
 # v1.2.3
 
 LES POSTERSSSSSSSSSSSSSSSSSSSSS (sauf celui a gauche du terminal parce qu'il est trop compliqué, je le ferais plus tard)
-on verra si ils voleront ça aussi 🥶🥶🥶🥶🥶🥶
+Nouvelle dépendance par contre, mais ça se fait tout seul en mettant à jour le mod
+
+on verra si ils voleront ça aussi 🥶🥶🥶🥶🥶🥶 (en parlant de ça, lisez le readme, ya une update)
 
 # v1.2.2
 
-Cette version contient presque pas de changements (parce que j'ai oublié ce que j'ai changé a 2h du mat), mais j'avais besoin de faire un petit coup de gueule dans le readme
+Cette version contient presque pas de changements (parce que j'ai oublié ce que j'ai changé a 2h du mat)
 
 # v1.2.1
 
