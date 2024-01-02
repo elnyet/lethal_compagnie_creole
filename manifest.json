@@ -4,10 +4,11 @@
 	"authorname":"N34r",
 	"author":"N34r",
     "website_url": "https://github.com/elnyet/lethal_company_french_translation",
-    "description": "French translation of the UI/HUD and the ingame terminal LISEZ LE README !!",
+    "description": "French translation of the UI/HUD, ingame terminal and posters. LISEZ LE README !!",
     "dependencies":
 	[
 	"BepInEx-BepInExPack-5.4.2100",
-	"Aavild-NewTerminal-1.4.0"
+	"Aavild-NewTerminal-1.4.0",
+	"femboytv-LethalPosters-1.2.0"
 	]
 }
