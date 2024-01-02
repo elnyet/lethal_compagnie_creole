@@ -1,6 +1,11 @@
+# v1.2.3
+
+LES POSTERSSSSSSSSSSSSSSSSSSSSS (sauf celui a gauche du terminal parce qu'il est trop compliqué, je le ferais plus tard)
+on verra si ils voleront ça aussi 🥶🥶🥶🥶🥶🥶
+
 # v1.2.2
 
-Ce version contient presque pas de changements (parce que j'ai oublié ce que j'ai changé a 2h du mat), mais j'avais besoin de faire un petit coup de gueule dans le readme
+Cette version contient presque pas de changements (parce que j'ai oublié ce que j'ai changé a 2h du mat), mais j'avais besoin de faire un petit coup de gueule dans le readme
 
 # v1.2.1
 
