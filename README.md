@@ -9,30 +9,38 @@ A vous de juger quelle traduction vous souhaitez prendre, moi je continuerai la 
 
 PS: Aucune idée de si ils m'ont volé le terminal, il a l'air plutôt différent du mien  <br />
 
+UPDATE : Le message d'en haut n'étant effectif que pour leur version 4.0.0, sur leur version 4.1.0 ils ont retiré l'alerte radioactivité, sûrement parce qu'ils ont vu qu'elle était pas alignée, par contre ils ont gardé le reste  <br />
+Aucun message sur discord du membre qui m'avait contacté pour collaborer, ni même de l'équipe en général, du vol à l'état pur
+
 ### Description du mod :
 
 Ce mod a pour but d'être une traduction du jeu en français, pour les gens qui souhaient juste avoir leur jeu en FR ou qui ne comprennent pas l'anglais.  <br />
-Il contient : Le terminal (Les logs de sigurd, le bestiaire, et la plupart des textes qu'on y trouve), L'IU/ATH et les textures contenant du texte (Comme l'écran de résultats, et l'alerte radioactivité)  <br />
+
+Il contient : <br />
+-Le Terminal (Au complet (même les logs et le bestiaire!!!), reste qq textes anglais par ci par là) <br />
+-L'Interface utilisateur et L'ATH <br />
+-Les posters du vaisseau (sauf 1 parce qu'il est fait trop bizarrement je le ferais plus tard) <br />
+-Certains mods sont traduits <br />
+-Les textures (Originelles, genre je les ai volé a personne haha pas comme certains) <br />
+
+Pour projet : Traduire la plupart des mods <br />
 N'oubliez pas de lire les CHANGELOGS et de verifier le README de temps en temps, je rajoute des trucs des fois  <br />
 
 ### 🖥️ Installation
 
-Utilisez r2modman pour installer le mod, cela installera aussi NewTerminal, pour la traduction du terminal. FAITES ATTENTION les commandes du terminal sont en anglais !!!!  <br />
+Utilisez r2modman pour installer le mod, cela installera aussi NewTerminal et LethalPosters, pour la traduction du terminal. FAITES ATTENTION les commandes du terminal sont en anglais !!!!  <br />
 
 Si vous souhaitez pas avoir le terminal de traduit (Ce qui inclut : le bestiaire, les logs de sigurd et la majorité du texte informatif) Supprimez les 4 fichiers "NewTerminal-" dans config (Notez qu'a chaque maj du mod ils reviendront je crois) <br />
-
-Besoin d'aide ou vous souhaitez signaler des erreurs ? @lenyet sur discord ou faites une issue sur le github (https://github.com/elnyet/lethal_company_french_translation/)
+Besoin d'aide ou vous souhaitez signaler des erreurs ? @lenyet sur discord ou faites une issue sur le github (https://github.com/elnyet/lethal_company_french_translation/) <br />
 
 ### 🌐 Crédits
 
 Traduction italienne (la base du mod) : https://thunderstore.io/c/lethal-company/p/Maca/Lethal_Company_Italian_Translation/  <br />
-Traduction latine (dont j'ai pris quelques trucs, notamment certaines parties du terminal) : https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/  <br />
-
+Traduction latine (pour certaines parties du Terminal et les Posters) : https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/  <br />
 
 ![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/db25d22a-0a31-4d22-89b3-efeada85ffe9)
 ![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/84504ad2-429c-4258-9f3c-ce2d4cc81e30)
-![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/9f0054b0-af4d-4114-b961-8c13a6744e5c)
-![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/d6c8b9c7-7ce1-4909-a086-c0b5ec7c6ad3)
+![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/c3a3c9a7-934a-4495-9da9-45be7f498725)
 ![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/93662d0a-3139-4064-9ecd-941d19dc6ed6)
 ![image](https://github.com/elnyet/lethal_company_french_translation/assets/153497028/41fadd7b-309b-41f1-a4f8-981f1cd1c22e)
 
