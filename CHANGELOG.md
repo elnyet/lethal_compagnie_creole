@@ -1,3 +1,7 @@
+# v1.2.4
+
+hotfix du logo pcq il rend dégeulasse jsp pk
+
 # v1.2.3
 
 LES POSTERSSSSSSSSSSSSSSSSSSSSS (sauf celui a gauche du terminal parce qu'il est trop compliqué, je le ferais plus tard)
