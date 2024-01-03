@@ -24,7 +24,7 @@ Gift box=Cadeau
 Gift=Cadeau
 Gold Bar=Lingot d'or
 Golden cup=Coupe dorée
-Hair brush=Brosse à cheveux
+Hair brush=Peigne
 Hairdryer=Sèche-cheveux
 Homemade flashbang=GSS Artisanale
 Jar of pickles=Bocal de cornichons
@@ -66,24 +66,23 @@ Bee hive collected!=Ruche récoltée!
 Big bolt collected!=Grosse vis récoltée!
 Bottles collected!=Bouteilles récoltées!
 Brass bell collected!=Cloche récoltée!
-Brush collected!=Brosse récolté!
+Brush collected!=Brosse récoltée!
 Candy collected!=Bonbon récolté!
 Cash register collected!=Caisse récoltée!
 Chemical jug collected!=Produits chimiques récoltés!
 Clown horn collected!=Klaxon récolté!
 Coffee mug collected!=Tasse récoltée!
-Comedy=Comédie récolté!
+Comedy=Comédie récoltée!
 Cookie mold pan collected!=Moule récolté!
 Double-barrel=Fusil double-canon récolté!
 Dust pan collected!=Ramassette récoltée!
 Egg beater collected!=Batteur à oeufs récolté!
 Fancy lamp collected!=Lampe récoltée!
 Flask collected=Fiole récoltée!
-Gift collected=Cadeau récoltée!
+Gift collected=Cadeau récolté!
 Gold bar collected!=Lingot d'or récolté!
 Golden cup collected!=Coupe dorée récoltée!
-Hair brush collected!=Brosse à cheveux récoltée!
-Hairdryer=Sèche-cheveux récolté!
+Hair brush collected!=Peigne récolté!
 Hive collected!=Ruche récoltée!
 Homemade flashbang collected!=GSS Artisanale récoltée!
 Item collected!=Objet récolté!
@@ -119,6 +118,8 @@ V-type engine collected!=Moteur en V récolté!
 Wedding ring collected!=Bague de mariage récoltée!
 Whoopie cushion collected!=Coussin péteur récolté!
 Yield sign collected!="Cédez le passage" récolté!
+Hairdryer collected!=Sèche-cheveux récolté!
+Bell collected!=Cloche récoltée!
 
 # Oggetti + Drop (A-Z)
 
@@ -145,7 +146,7 @@ Drop Flask : [G]=Lâcher Fiole : [G]
 Drop Gift : [G]=Lâcher Cadeau : [G]
 Drop Gold bar : [G]=Lâcher Lingot d'or : [G]
 Drop Golden cup : [G]=Lâcher Coupe dorée : [G]
-Drop Hair brush : [G]=Lâcher Brosse à cheveux : [G]
+Drop Hair brush : [G]=Lâcher Peigne : [G]
 Drop Hairdryer : [G]=Lâcher Sèche-cheveux : [G]
 Drop Homemade flashbang : [G]=Lâcher GSS Artisanale : [G]
 Drop Jar of pickles : [G]=Lâcher Bocal de cornichons : [G]
@@ -181,6 +182,7 @@ Drop Walkie-talkie : [G]=Lâcher Walkie-talkie : [G]
 Drop Wedding ring : [G]=Lâcher Anneau : [G]
 Drop Whoopie cushion : [G]=Lâcher Coussin péteur : [G]
 Drop Yield sign : [G]=Lâcher Panneau "Cédez le passage" : [G]
+Drop Body : [G]=Lâcher Cadavre : [G]
 
 # Shotgun
 

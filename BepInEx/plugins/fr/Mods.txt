@@ -1,14 +1,9 @@
-# SpectateEnnemies
+# SpectateEnnemies (je galere a traduire)
 
 No enemies to spectate=Pas d'ennemis à regarder
-\nToggle Flashlight : [RMB] (Click)\nConfig Menu : [Insert]=\nAllumer torche : [Clic Droit]\nConfig Menu : [Insert]
-Switch to Enemies: [E]=Regarder les ennemis: [E]
-Switch to Players: [E]=Regarder l'équipage: [E]
 
-# mod pour avoir des trucs dans des slots séparés la 
+# mod pour avoir des trucs dans des slots séparés la (j'arrive pas a trad le toggle light)
 
-Toggle Laser : [LMB][F]=Allumer : [Clic Gauche][F]
-Toggle Light : [LMB][F]=Allumer : [Clic Gauche][F]
 Hold: [Alt]=Maintenez: [ALT]
 
 # EmployeeAssignments
@@ -20,6 +15,7 @@ ASSIGNMENT FAILED=CONTRAT ECHOUE
 YOU FAILED TO COMPLETE THE ASSIGNMENT. REASON: =VOUS AVEZ ÉCHOUÉ. RAISON: 
 
 #noms de mission
+
 SCRAP RETRIEVAL=RECHERCHE & COLLECTE
 HUNT & KILL=CHASSE A L'HOMME
 REPAIR VALVE=PLOMBIER DE HAUT NIVEAU
@@ -36,4 +32,15 @@ THE ENEMY WAS NOT KILLED=L'ENNEMI N'A PAS ETE ELIMINE
 YOU MUST FIND AND REPAIR THE BROKEN VALVE=VOUS DEVEZ TROUVER ET REPARER LA FUITE DE GAZ
 FIND AND REPAIR THE BROKEN VALVE=TROUVEZ ET REPAREZ LA FUITE DE GAZ
 THE BROKEN VALVE WAS NOT FIXED=LA FUITE DE GAZ N'A PAS ETE REPARE
+
+# shiploot (peut être prob de format. ?)
+
+r:"\s?SHIP: $([0-9]+)"=VAISSEAU: $1 $
+
+# LC_API 
+
+Installed Mods=Mods installés
+Mod List:=Liste des mods:
+Check the logs for more detailed results.\n<size\=13>(Note that if someone doesnt show up on the list, they may not have LC_API installed)</size>=Verifiez les logs pour des resultats plus detailles.\n<size\=12>(Notez que si quelqu'un n'apparait pas sur la liste, il n'a peut etre pas LC_API)</size>
+Asking all other players for installed mods..=Verification des mods des autres joueurs..
 

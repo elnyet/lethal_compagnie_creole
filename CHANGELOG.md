@@ -1,3 +1,7 @@
+# v1.2.5 
+
+Traductions pour LC_API, et corrections de fautes et d'erreurs diverses
+
 # v1.2.4
 
 hotfix du logo pcq il rend dégeulasse jsp pk
