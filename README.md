@@ -1,6 +1,6 @@
 # Traduction française de Lethal Company
 
-<details open>
+<details>
 <summary>ATTENTION: Ce mod n'est pas lié à l'autre traduction française ni à leur créateur</summary>
 <br>
 J'ai refusé de collaborer avec les gens qui ont fait l'autre traduction française, WindSeries, de base, c'était sensé être un projet perso et j'avais pas remarqué qu'ils avaient déjà fait un truc, j'aimais pas trop leur trad, ducoup j'ai continué la mienne. <br />
@@ -29,11 +29,14 @@ Il contient :
 Pour projet : Traduire la plupart des mods <br />
 N'oubliez pas de lire les CHANGELOGS et de verifier le README de temps en temps, je rajoute des trucs des fois  <br />
 
-### 🖥️ Installation
+### 🖥️ Installation/Désinstallation 
 
 Utilisez r2modman pour installer le mod, cela installera aussi NewTerminal et LethalPosters, pour la traduction du terminal. FAITES ATTENTION les commandes du terminal sont en anglais !!!!  <br />
 
-Si vous souhaitez pas avoir le terminal de traduit (Ce qui inclut : le bestiaire, les logs de sigurd et la majorité du texte informatif) Supprimez les 4 fichiers "NewTerminal-" dans config (Notez qu'a chaque maj du mod ils reviendront je crois) <br />
+Pour désinstaller COMPLÉTEMENT le mod, déjà désinstallez le normalement, puis retirez aussi NewTerminal et LethalPosters, il ne vous serviront pas pour autre chose
+
+Si vous souhaitez JUSTE pas avoir le terminal de traduit (Ce qui inclut : le bestiaire, les logs de sigurd et la majorité du texte informatif) Supprimez les 4 fichiers "NewTerminal-" dans config (Notez qu'a chaque maj du mod ils reviendront je crois) <br />
+
 Besoin d'aide ou vous souhaitez signaler des erreurs ? @lenyet sur discord ou faites une issue sur le github (https://github.com/elnyet/lethal_company_french_translation/) <br />
 
 ### 🌐 Crédits
