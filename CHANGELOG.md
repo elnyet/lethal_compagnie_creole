@@ -1,3 +1,8 @@
+# v1.2.6
+
+Ajout de traductions pour des lunes custom et pour hoarderbud (dans le terminal)
+corrections mineures
+
 # v1.2.5 
 
 Traductions pour LC_API, et corrections de fautes et d'erreurs diverses

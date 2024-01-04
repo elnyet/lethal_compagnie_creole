@@ -54,6 +54,7 @@ Use horn : [LMB]=Klaxonner : [Clic gauche]
 Use hairdryer : [LMB]=Utiliser sèche-cheveux [Clic gauche]
 Pull pin : [LMB]=Tirer la goupille : [Clic gauche]
 Pull pin: [LMB]=Tirer la goupille : [Clic gauche]
+Open Gift : [LMB]=Ouvrir le cadeau [Clic gauche]
 
 [ Not holding items ]=[Rien en main]
 [Pulling valve]=[En train de tourner une vanne]
