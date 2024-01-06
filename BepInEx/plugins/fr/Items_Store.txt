@@ -14,6 +14,7 @@ Turn on booster : [LMB]=Allumer boosteur : [Clic gauche]
 Turn page : [Q/E]=Changer de page : [Q/E]
 Use grenade : [LMB]=Utiliser grenade : [Clic gauche]
 Use jetpack : [LMB]=Utiliser Jetpack : [Clic gauche]
+Spray : [LMB]=Peindre : [Clic gauche]
 
 #Drop_Items_Store
 

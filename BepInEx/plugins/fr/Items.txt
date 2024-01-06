@@ -24,7 +24,7 @@ Gift box=Cadeau
 Gift=Cadeau
 Gold Bar=Lingot d'or
 Golden cup=Coupe dorée
-Hair brush=Peigne
+Hair brush=Brosse
 Hairdryer=Sèche-cheveux
 Homemade flashbang=GSS Artisanale
 Jar of pickles=Bocal de cornichons
@@ -60,6 +60,7 @@ Yield sign="Cédez le passage"
 
 # Oggetti + Collected (A-Z)
 
+sr:"^(.+?)collected!$"=$1 récolté！
 Airhorn collected!=Klaxon récolté!
 Apparatus collected!=Réacteur récolté!
 Bee hive collected!=Ruche récoltée!
@@ -82,7 +83,7 @@ Flask collected=Fiole récoltée!
 Gift collected=Cadeau récolté!
 Gold bar collected!=Lingot d'or récolté!
 Golden cup collected!=Coupe dorée récoltée!
-Hair brush collected!=Peigne récolté!
+Hair brush collected!=Brosse récolté!
 Hive collected!=Ruche récoltée!
 Homemade flashbang collected!=GSS Artisanale récoltée!
 Item collected!=Objet récolté!
@@ -146,7 +147,7 @@ Drop Flask : [G]=Lâcher Fiole : [G]
 Drop Gift : [G]=Lâcher Cadeau : [G]
 Drop Gold bar : [G]=Lâcher Lingot d'or : [G]
 Drop Golden cup : [G]=Lâcher Coupe dorée : [G]
-Drop Hair brush : [G]=Lâcher Peigne : [G]
+Drop Hair brush : [G]=Lâcher Brosse : [G]
 Drop Hairdryer : [G]=Lâcher Sèche-cheveux : [G]
 Drop Homemade flashbang : [G]=Lâcher GSS Artisanale : [G]
 Drop Jar of pickles : [G]=Lâcher Bocal de cornichons : [G]

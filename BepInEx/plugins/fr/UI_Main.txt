@@ -1,6 +1,6 @@
 ﻿#Versione
 r:"^v([0-9]+)$"=v$1
-
+r:"(^[\s\S]+)(\[MODDED\])$"=$1[MODDÉ]
 
 Adjust screen brightness until the symbol on the right is barely visible.=Réglez la luminosité jusqu'a ce que le symbole soit à peine visible.
 Voice volume=Volume voix
@@ -83,6 +83,7 @@ Voted for ship to leave early=Vous avez demandé un départ anticipé.
 TIP!: Hold [RMB] to vote for the autopilot ship to leave early=CONSEIL!: Maintenez [Clic droit] pour voter un départ anticipé.
 [LIFE SUPPORT: OFFLINE]=[SYSTÈME DE SURVIE: HS]
 (Dead)=(Mort)
+Oxygen critically low!= Niveau d'oxygène critique !
 
 YOU ARE FIRED.=<size\=52>VOUS ÊTES VIRÉ</size>.
 You did not meet the profit quota before the deadline.=Vous n'avez pas atteint le quota avant l'échéance.

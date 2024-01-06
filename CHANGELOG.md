@@ -1,3 +1,15 @@
+# v1.2.9
+
+j'ai mangé le terminal sans faire exprès mais maintenant j'ai update les trucs des planètes
+
+# v1.2.8
+
+mises à jour mineures
+
+# v1.2.7
+
+corrections mineures
+
 # v1.2.6
 
 Ajout de traductions pour des lunes custom et pour hoarderbud (dans le terminal)
@@ -15,8 +27,6 @@ hotfix du logo pcq il rend dégeulasse jsp pk
 
 LES POSTERSSSSSSSSSSSSSSSSSSSSS (sauf celui a gauche du terminal parce qu'il est trop compliqué, je le ferais plus tard)
 Nouvelle dépendance par contre, mais ça se fait tout seul en mettant à jour le mod
-
-on verra si ils voleront ça aussi 🥶🥶🥶🥶🥶🥶 (en parlant de ça, lisez le readme, ya une update)
 
 # v1.2.2
 
