@@ -1,6 +1,0 @@
-Boss=Chef
-Leader=Leader
-Employee=Employe
-Part-timer=A Temps-Partiel
-Intern=Stagiaire
-EMPLOYEE RANK=RANG D'EMPLOYE
