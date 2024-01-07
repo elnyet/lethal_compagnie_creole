@@ -1,3 +1,14 @@
+# v1.3.1
+
+fix du nom de certains objets qui affichaient "[item] recolté" au lieu du nom de l'objet tout court dans le scan
+ça affectait : tragédie/comédie et le shotgun
+Normalement devrait plus y avoir de prob de ce type
+et autres ajouts/corrections mineures
+
+# v1.3.0
+
+ça marche pas en fait donc je revert normalement tout est bon
+
 # v1.2.9
 
 j'ai mangé le terminal sans faire exprès mais maintenant j'ai update les trucs des planètes
