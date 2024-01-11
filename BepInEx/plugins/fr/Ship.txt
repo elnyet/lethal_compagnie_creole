@@ -1,0 +1,23 @@
+(Requires battery-powered item)=(Requiert un objet qui fonctionne sur batterie)
+Alert! The autopilot is leaving due to dangerous conditions.=Attention! Le vaisseau part à cause des conditions dangereuses.
+Autosaving...=Sauvegarde automatique...
+CREW:=EQUIPAGE:
+Change suit=Changer de tenue
+DOOR HYDRAULICS:=CTRL. PORTES :
+HANDS FULL=MAINS PLEINES
+HAZARD LEVEL:=<size\=28>NIVEAU DE DANGER:</size>
+LOADING WORLD...=CHARGEMENT...
+New creature data sent to terminal!=Nouvelles donnees de creature envoyees au terminal!
+PERFORMANCE REPORT=RAPPORT DE PERFORMANCES
+PILOT COMPUTER=PILOTE AUTOMATIQUE
+SYSTEMS ONLINE=SYSTÈMES EN LIGNE
+Ship leaving in one hour=Le vaisseau part dans une heure.
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=L'entreprise doit minimiser les risques de dégâts au matériel propriétaire. Adieu!
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Le vaisseau va désormais naviguer vers le lieu sûr le plus proche. Vos objets ont été perdus.
+The file will NOT save! Your ship must be in orbit.=Votre progression ne sera pas sauvegardée ! Votre vaisseau doit être en orbite.
+Typing...=En train d'écrire...
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=ATTENTION! Le vaisseau va partir à minuit. Revenez vite.
+Waiting for crew...=En attente de l'equipage...
+Walk : [W/A/S/D]=Se déplacer : [W/A/S/D]
+Warning! No response from crew, which has not returned. Emergency code activated.=Alerte ! Pas de réponse de l'équipage, qui n'est pas revenu. Protocole d'urgence activé.
+[Wait for ship to land]=[En attente de l'atterissage du vaisseau]

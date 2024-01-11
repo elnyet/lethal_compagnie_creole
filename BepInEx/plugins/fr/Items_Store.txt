@@ -1,0 +1,50 @@
+﻿
+Inspect: [Z]=Inspecter : [Z]
+Place on door : [LMB]=Placer sur la porte : [Clic gauche]
+Pop up ladder : [LMB]=Déployer l'échelle : [Clic gauche]
+Power button : [Q]=Allumer : [Q]
+Scan for threat: [LMB]=Scanner une menace : [Clic gauche]
+Send voice : [LMB]=Parler : [Clic gauche]
+Swing shovel : [LMB]=Frapper : [Clic gauche]
+Take TZP inhalant : [LMB]=Utiliser l'inhalateur TZP : [Clic gauche]
+Throw grenade: [LMB]=Lancer grenade : [Clic gauche]
+Toggle light : [LMB]=Allumer la lumière : [Clic gauche]
+Toggle music : [LMB]=Jouer de la musique : [Clic gauche]
+Turn on booster : [LMB]=Allumer boosteur : [Clic gauche]
+Turn page : [Q/E]=Changer de page : [Q/E]
+Use grenade : [LMB]=Utiliser grenade : [Clic gauche]
+Use jetpack : [LMB]=Utiliser Jetpack : [Clic gauche]
+Spray : [LMB]=Peindre : [Clic gauche]
+
+#Drop_Items_Store
+
+Drop Boombox : [G]=Lâcher Haut-parleur : [G]
+Drop clipboard : [G]=Lâcher Manuel:  [G]
+Drop Extension ladder : [G]=Lâcher Échelle portable : [G]
+Drop Flashlight : [G]=Lâcher Lampe torche: [G]
+Drop Jetpack : [G]=Lâcher Jetpack : [G]
+Drop Lockpicker : [G]=Lâcher Kit de crochetage : [G]
+Drop Pro-flashlight : [G]=Lâcher Lampe torche PRO : [G]
+Drop Radar-booster : [G]=Lâcher Boosteur : [G]
+Drop Shovel : [G]=Lâcher Pelle : [G]
+Drop Spray paint : [G]=Lâcher Peinture en spray: [G]
+Drop Stun grenade : [G]=Lâcher Paralysante: [G]
+Drop TZP-Inhalant : [G]=Lâcher Inhalateur TZP : [G]
+Drop Zap gun : [G]=Lâcher Tazer : [G]
+
+#Nomi oggetti
+Boombox=Haut-parleur
+Clipboard=Manuel
+Extension ladder=Échelle portable
+Flashlight=Lampe torche
+Jetpack=Jetpack
+Lockpicker=Kit de crochetage
+Pro-flashlight=Lampe torche PRO
+Radar-booster=Boosteur
+Shovel=Pelle
+Spray paint=Peinture en spray
+Stun grenade=Paralysante
+TZP-Inhalant=Inhalateur TZP
+Zap gun=Tazer
+ 
+Shake can : [Q]=Secouer : [Q]

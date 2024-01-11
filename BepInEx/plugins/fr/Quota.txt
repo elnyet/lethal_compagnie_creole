@@ -1,0 +1,28 @@
+0 Days Left=0 Jours restants
+1 Day Left=1 Jour restant
+2 Days Left=2 Jours restants
+HALT!=ALERTE!
+NEW PROFIT QUOTA:=NOUVEAU QUOTA:
+Paycheck!=Votre Paie !
+QUOTA REACHED!=QUOTA ATTEINT!
+TO MEET PROFIT QUOTA=POUR ATTEINDRE LE QUOTA
+Tip=Conseil
+
+# notes
+
+r:"(.*)Most profitable(.*)"=$1Le plus rentable.\n
+r:"(.*)The laziest employee(.*)"=$1Le plus inutile.\n
+r:"(.*)The most paranoid employee(.*)"=$1Le plus parano.\n
+r:"(.*)Sustained the most injuries(.*)"=$1La plus grosse victime.\n
+
+# conseils (j'ai oublié de les faire)
+
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Vous avez 0 jours restants pour atteindre le quota. Utilisez le terminal pour naviguer vers l'entreprise et vendre vos objets.
+Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Jetez vos objets metalliques maintenant ! On a detecte de l'electricite statique. Vous allez bientot vous faire foudroyer.
+The vehicle returned with your purchased items. Our delivery fee cannot be refunded.=Le vehicule est revenu avec vos objets. Les frais de livraison ne seront pas rembourses.
+To sell, use the terminal to route the ship to the company building.=Pour vendre, accedez au terminal pour diriger le vaisseau vers l'entreprise.
+You have landed in an eclipse. Exercise caution!=Vous avez atteri pendant une eclipse. Restez sur vos gardes.
+Use the ship computer terminal to access secure doors.=Utilisez le terminal pour interagir avec les portes securisees du complexe.
+
+Items missed!=Objets rates!
+

@@ -1,0 +1,41 @@
+﻿Brake lever=Levier moteur
+Lands the ship.=Pour diriger le vaisseau.
+
+Quota=Quota
+Sell scrap for cash.=Vendez des objets.
+
+Door controls=Commandes des portes
+Can't stay closed forever=Ferment temporairement\nles portes.
+
+Training manual=Manuel de formation
+Useful info!=Pour des infos utiles!
+
+Terminal=Terminal
+Buy flashlights and travel to new planets!=Achetez des objets et voyagez vers de nouvelles planetes!
+
+Coil=Chargeur
+Charges batteries=Pour recharger les batteries
+
+Ship=Vaisseau
+Home base=Votre base
+
+Main entrance=Entrée principale
+
+VISIBILITY LOW!\n\nSteam leak detected in area=VISIBILITÉ RÉDUITE!\nFuite de gaz détectée!
+
+# Causes de mort
+
+r:"^Body of (.+)$"=Cadavre de $1
+sr:"^Cause of death: (.+)$"=Cause de mort: $1
+
+Gunshots=Fusillade
+Bludgeoning=Assassinat
+Blast=Explosion
+Kicking=Coups
+Unknown=Inconnue
+Abandoned=Abandon
+Drowning=Noyade
+Mauling=Mutilation
+Gravity=Chute
+Crushing=Ecrasement
+

@@ -1,4 +1,5 @@
-# Horodotage en format 24H
+# Hours
+# 24h format
 
 6:00\nAM=6:00\n
 6:01\nAM=6:01\n

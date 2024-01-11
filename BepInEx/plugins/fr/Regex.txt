@@ -1,0 +1,50 @@
+﻿
+r:"([\s\S]+) joined the ship."=$1 a rejoint le vaisseau.
+r:"([\s\S]+) started the ship."=$1 a démarré le vaisseau.
+r:"([\s\S]+)<color\\=#FF0000>([\s\S]+)"=$1<color\=#FF0000>$2.
+r:"^((\d|\d{2}):\d{2})\\nAM$"=$1\nAM
+r:"^((\d|\d{2}):\d{2})\\nPM$"=$1\nPM
+r:"^([0-9]+) EXP$"=$1 EXP
+r:"^([0-9]+)%$"=$1%
+r:"^([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) casualties: (-[0-9]+%)\\n\(([1][2,3,4]|[1-9]?[0,5,6,7,8,9]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recupreres)
+r:"^([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) casualties: (-[0-9]+%)\\n\(([2-9]?[1]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
+r:"^([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) casualties: (-[0-9]+%)\\n\(([2-9]?[2,3,4]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
+r:"^([2-9]?[1]) casualties: (-[0-9]+%)\\n\(([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
+r:"^([2-9]?[1]) casualties: (-[0-9]+%)\\n\(([2-9]?[1]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
+r:"^([2-9]?[1]) casualties: (-[0-9]+%)\\n\(([2-9]?[2,3,4]) bodies recovered\)$"=$1 pertes: $2\\n($3 cadavres recupreres)
+r:"^([2-9]?[2,3,4]) casualties: (-[0-9]+%)\\n\(([1][1,2,3,4]|[1-9]?[0,5,6,7,8,9]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
+r:"^([2-9]?[2,3,4]) casualties: (-[0-9]+%)\\n\(([2-9]?[1]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
+r:"^([2-9]?[2,3,4]) casualties: (-[0-9]+%)\\n\(([2-9]?[2,3,4]) bodies recovered\)$"=$1 pertes: $2\n($3 cadavres recuperes)
+
+#r:"^\[Cooldown: ([0-9]+) sec.\]$"=[Patientez: $1s]
+
+#Originale Regex Pericolosità
+r:"^([S,A,B,C,D,E,F,G][+]?)$"=$1
+r:"^(Safe)$"=Lieu sûr
+
+r:"^([a-z][0-9])$"=$1
+r:"^(\$[0-9]+)$"=$1
+r:"^(\[[A-Z]+\])$"=$1
+r:"^Casualties (\(x[0-9]+\)+): (-[0-9]+%)$"=Pertes : $1: $2
+r:"^DEADLINE:\\n([0,5,6,7,8,9]) Days$"=ÉCHÉANCE:\n$1 JOURS
+r:"^DEADLINE:\\n([1]) Days$"=ÉCHÉANCE:\n$1 JOURS
+r:"^DEADLINE:\\n([2,3,4]) Days$"=ÉCHÉANCE:\n$1 JOURS
+DEADLINE:\n NOW=ÉCHÉANCE:\nJOUR-J
+r:"^DUE: (\$[0-9]+)$"=DETTE: $1
+r:"^MONITORING: ([\s\S]+)$"=VOUS SURVEILLEZ: $1
+r:"^Overtime bonus: (\$[0-9]+)$"=Heures sup': $1
+r:"^PROFIT QUOTA:\\n(\$[0-9]+ \/ \$[0-9]+)$"=QUOTA:\n$1
+r:"^Random seed: ([0-9]+)$"=Seed aleatoire: $1
+r:"^Random seed:([0-9]+)$"=Seed aleatoire: $1
+r:"^TOTAL: (\$[0-9]+)$"=TOTAL: $1
+r:"^Value: (\$[0-9]+|[?]+)$"=Valeur: $1
+r:"^\(([0-9]+\/[0-9]+) Votes\)$"=($1 Votes)
+r:"^\(Spectating: ([\s\S]+)\)$"=(VOUS REGARDEZ: $1)
+sr:"^Change: ([\s\S])$"=Changer : $1
+sr:"^Days on the job: ([\s\S]+)\nScrap value collected: ([\s\S]+)\nDeaths: ([\s\S]+)\nSteps taken: ([\s\S]+)$"=Jours de travail：$1\nValeur des objets ：$2\nMorts：$3\nNombre de pas ：$4
+#sr:"^Found journal entry: ([\s\S]+)$"=Entree de journal : $1 recuperee.
+r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=ATTENTION! Revenez au vaisseau à $1. Les morts ont voté, et le vaisseau partira plus tôt.
+r:"(.+)disconnected"=$1s'est déconnecté.
+r:"(.+)was kicked"=$1a été exclu.
+r:"(.+)was left behind"=$1a été abandonné.
+r:"^The server host disconnected."=L'hôte s'est déconnecté.
