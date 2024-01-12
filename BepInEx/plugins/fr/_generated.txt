@@ -1,0 +1,5 @@
+﻿12:00 \n AM=12:00
+\nPOPULATION: Abandoned\nCONDITIONS: Expansive. Constant rain.\nFAUNA: Diverse=\nPOPULATION: Abandonnée\nCONDITIONS: Territoire vaste, pluie forte.\nFAUNE: Varie
+52% =52% 
+Cat =Chat 
+\nPOPULATION: None\nCONDITIONS: Frozen, rocky. Its planet orbits a white dwarf star.\nFAUNA: Unlikely for complex life to exist=\nPOPULATION: Aucune\nCONDITIONS: Gelée, rocheuse. Sa planète orbite une étoile naine blanche\nFAUNE: Improbable que des formes de vie complexes y existent

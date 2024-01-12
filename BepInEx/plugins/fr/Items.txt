@@ -20,6 +20,7 @@ Dust pan=Ramassette
 Egg beater=Batteur à oeufs
 Fancy lamp=Lampe
 Flask=Fiole
+Dart=Fléchette
 Gift box=Cadeau
 Gift=Cadeau
 Gold Bar=Lingot d'or
