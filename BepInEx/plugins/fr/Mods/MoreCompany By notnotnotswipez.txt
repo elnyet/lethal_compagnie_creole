@@ -1,0 +1,6 @@
+Crew Size:=Taille de l'équipage
+v45 (MC)=V45 (MC)
+Cosmetics Enabled:=Activer les Cosmétiques:
+
+> Lobby Code=> Code du lobby
+(Copied to clipboard!)=(Copié dans le presse-papiers!)
