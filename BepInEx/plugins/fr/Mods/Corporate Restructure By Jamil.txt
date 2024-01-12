@@ -1,0 +1,21 @@
+#Corporate Restructure By Jamil
+
+#Les petit ecrant au dessus
+
+#LOOT:=BUTIN:
+r:"^LOOT:\\n\\$([0-9.]+)$"=BUTIN :\n$ $1
+
+#CREDITS:\n=CRÉDITS:\n
+r:"^CREDITS:\\n\\$([0-9.]+)$"=CRÉDITS :\n$ $1
+
+#DAY:=JOUR:
+r:"^DAY:\\n(\d+)$"=JOUR :\n$1
+
+#TIME:=TEMPS:
+r:"^TIME:\\n([0-9:]+)(?:\\n([APMapm]+))?$"=HEURE :\n$1 $2
+
+#Ecrant d'information de la Planette selectionnée
+
+r:"^Orbiting: ([\s\S]+)$"=EN ORBITE : $1\n
+#Ne Fonctionne pas , ou ci je change la syntaxe surprime la ligne au dessus de lui
+r:"^Weather: ([\s\S]+)$"=METEO : $1
