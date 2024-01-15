@@ -19,13 +19,7 @@ N'oubliez pas de lire les CHANGELOGS et de verifier le README de temps en temps,
 <summary>Mods actuellement traduits</summary>
 <br>
 
-LC_API : Traduction des messages d'informations divers lorsque vous spawnez dans le vaisseau <br />
-Hoarderbud : Traduction du msg d'achat dans le terminal <br /> 
-EmployeeAssignments : Traduction des noms de missions et de qq textes, j'arrive pas a traduire le reste <br />
-SpectateEnnemies : Traduction du texte qui apparaît lorsque personne ne peut être spectate, j'arrive pas a traduire le reste <br />
-ReservedItemSlot : Traduction du texte "Hold : [ALT]", j'arrive pas a traduire le reste <br />
-
-Lunes custom : Peaches_Castle, Dust2, Zelda_Moons, Springfield, LC_Nuketown (Seulement dans le terminal, à voir pour l'affichage lors de l'atterissage) <br />
+Merci de regarder dans le dossier Mods de la trad pour voir ce qui est fait
 
 </details>
 
@@ -44,8 +38,7 @@ Besoin d'aide ou vous souhaitez signaler des erreurs ? @lenyet sur discord ou fa
 
 Traduction italienne (la base du mod et les textures) : https://thunderstore.io/c/lethal-company/p/Maca/Lethal_Company_Italian_Translation/  <br />
 Traduction latine (pour certaines parties du Terminal et les Posters) : https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/  <br />
-Un grand merci à Katsugami qui a fait la trad de beaucoup de mods
-
+Un grand merci à Katsugami qui a fait la trad de beaucoup de mods <br />
 
 Remerciements spéciaux à : Kamaloha, Keèloks, Gravi, Slider, Secrety, Sheikahs pour m'avoir aidé sur certains points et pour avoir testé le mod !
 
