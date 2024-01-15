@@ -1,4 +1,4 @@
-Pet cat : [LMB]=Carresser Chat [LMB]
+Pet cat : [LMB]=Carresser Chat : [Clic gauche]
 Cat Facts=Faits sur les chats
 Cat=Chat
 
