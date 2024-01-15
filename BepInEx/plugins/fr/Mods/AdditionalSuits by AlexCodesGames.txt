@@ -1,8 +1,8 @@
-Red Suit=Rouge
-Yellow Suit=Jaune
-Green Suit=Vert
-Blue Suit=Bleu
-Purple Suit=Violet
-Pink Suit=Rose
-White Suit=Blanc
-Black Suit=Noir
+Red Suit=Combi. Rouge
+Yellow Suit=Combi. Jaune
+Green Suit=Combi. Verte
+Blue Suit=Combi. Bleue
+Purple Suit=Combi. Violette
+Pink Suit=Combi. Rose
+White Suit=Combi. Blanche
+Black Suit=Combi. Noire
