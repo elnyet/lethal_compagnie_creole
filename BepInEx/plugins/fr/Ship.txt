@@ -18,6 +18,6 @@ The file will NOT save! Your ship must be in orbit.=Votre progression ne sera pa
 Typing...=En train d'écrire...
 WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=ATTENTION! Le vaisseau va partir à minuit. Revenez vite.
 Waiting for crew...=En attente de l'equipage...
-Walk : [W/A/S/D]=Se déplacer : [W/A/S/D]
+Walk : [W/A/S/D]=Se déplacer : [Z/Q/S/D]
 Warning! No response from crew, which has not returned. Emergency code activated.=Alerte ! Pas de réponse de l'équipage, qui n'est pas revenu. Protocole d'urgence activé.
 [Wait for ship to land]=[En attente de l'atterissage du vaisseau]
