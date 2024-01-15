@@ -44,6 +44,8 @@ Besoin d'aide ou vous souhaitez signaler des erreurs ? @lenyet sur discord ou fa
 
 Traduction italienne (la base du mod et les textures) : https://thunderstore.io/c/lethal-company/p/Maca/Lethal_Company_Italian_Translation/  <br />
 Traduction latine (pour certaines parties du Terminal et les Posters) : https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/  <br />
+Un grand merci à Katsugami qui a fait la trad de beaucoup de mods
+
 
 Remerciements spéciaux à : Kamaloha, Keèloks, Gravi, Slider, Secrety, Sheikahs pour m'avoir aidé sur certains points et pour avoir testé le mod !
 
