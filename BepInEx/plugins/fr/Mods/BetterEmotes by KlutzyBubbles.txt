@@ -1,9 +1,9 @@
-Salute=Saluer
+Salute=Salut
 Twerk=Twerk
-Griddy=Grincheux
+Griddy=Griddy
 Shy=Timide
 Clap=Taper
 Middle_Finger=Majeur
-Emote Wheel=Roue d'émote
-Emote Wheel CONTROLLER ONLY=Roue d'émote Contrôleur uniquement
-Accept Sync=Accepter la synchronisation
+Emote Wheel=Roue d'emotes
+Emote Wheel CONTROLLER ONLY=Roue d'emotes Manette uniquement
+Accept Sync=Synchroniser
