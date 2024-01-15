@@ -1,3 +1,8 @@
+# v1.3.2
+
+Traduction d'enormément de mods (merci à Katsugami)
+Merci de se référer au dossier des mods pour voir ceux qui sont traduits, FAITES GAFFE mettez le mod traduction APRÈS les mods dont lesquels une traduction a été faite
+
 # v1.3.1
 
 fix du nom de certains objets qui affichaient "[item] recolté" au lieu du nom de l'objet tout court dans le scan
