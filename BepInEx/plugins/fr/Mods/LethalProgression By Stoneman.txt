@@ -10,7 +10,7 @@ Level Up! Spend your skill points.= Level Up ! Investissez vos points de compét
 > Skills=> Compétence
 
 Upgrades:=Points :
-Level up to earn more skill points. You can level up by picking scrap and killing enemies.=Montez de niveau pour gagner plus de points de compétence. Vous pouvez monter de niveau en ramassant des débris et en éliminant des ennemis.
+Level up to earn more skill points. You can level up by picking scrap and killing enemies.=Montez de niveau pour gagner plus de points de compétence. Vous pouvez monter de niveau en ramassant des objets et en éliminant des ennemis.
 
 HPR:=HPR :
 Health Regen=Régénération de santé
@@ -89,7 +89,7 @@ The company provides you with better batteries. Replace your batteries AT THE SH
 
 HND:=HND :
 Hand Slot=Emplacement Supplémentatire
-The company finally gives you a better belt! Fit more stuff! (Reach 100% for one slot.)=La société vous offre enfin une ceinture améliorée ! Rangement accru ! (Atteignez 100% pour un emplacement.)
+The company finally gives you a better belt! Fit more stuff! (Reach 100% for one slot.)=L'entreprise vous offre enfin une ceinture améliorée ! Rangez plus de choses ! (Atteignez 100% pour un emplacement sup.)
 (+0% Hand Slots)=(+0% Emplacement supplémentaire)
 (+10% Hand Slots)=(+10% Emplacement supplémentaire)
 (+20% Hand Slots)=(+20% Emplacement supplémentaire)
@@ -150,7 +150,7 @@ The company gives you a better pair of eyes, allowing you to see the value in th
 
 OXY:=OXY
 Oxygen=Oxygène
-The company installs you with oxygen tanks. You gain extra time in the water. (Start drowning when the bar is empty.)=La société vous équipe de réservoirs d'oxygène. Vous gagnez du temps supplémentaire dans l'eau. (Commencez à suffoquer lorsque la jauge est vide.)
+The company installs you with oxygen tanks. You gain extra time in the water. (Start drowning when the bar is empty.)=L'entreprise vous équipe de réservoirs d'oxygène. Vous gagnez du temps supplémentaire dans l'eau. (Commencez à suffoquer lorsque la jauge est vide.)
 (+0% Extra Oxygen)=(+0% Oxygène supplémentaire)
 (+1% Extra Oxygen)=(+1% Oxygène supplémentaire)
 (+2% Extra Oxygen)=(+2% Oxygène supplémentaire)
