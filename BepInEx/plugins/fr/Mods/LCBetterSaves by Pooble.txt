@@ -1,0 +1,2 @@
+#LCBetterSaves
+BetterSaves=Sauvegardes
