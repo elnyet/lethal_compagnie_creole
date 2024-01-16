@@ -1,0 +1,193 @@
+#AdvancedCompany
+> AdvancedCompany settings=> Paramètres AdvancedCompany
+
+#Préréglages
+Presets=Préréglages
+Preset saved=Préréglage enregistré
+> Create new=Créer un nouveau
+> Cancel=Annuler
+> Save as new preset=Enregistrer comme nouveau préréglage
+> Save=Enregistrer
+> Continue=Continuer
+
+
+#File
+File=Fichier
+Settings regarding file handling.=Paramètres concernant la gestion des fichiers.
+Save in profile=Enregistrer dans le profil
+When activated your progression file will be saved in your profile folder.=Lorsqu'activé, votre fichier de progression sera enregistré dans le dossier de votre profil.
+Enable:=Activer:
+
+#Graphiques
+Graphics=Graphiques
+
+Vision enhancer=Améliorateur de vision
+Change how the vision enhancer looks.=Modifiez l'apparence de l'améliorateur de vision.
+Brightness:=Luminosité:
+
+#Barre d'actions
+Hotbar=Barre d'actions
+
+Here you can customize the appearance of the hotbar.=Ici, vous pouvez personnaliser l'apparence de la barre d'actions.
+
+Hotbar alpha:=Opacité:
+Hotbar scale:=Échelle:
+Hotbar border width:=Largeur de la bordure:
+Hotbar spacing:=Espacement:
+
+Invert scroll:=Inverser le défilement:
+
+#Cosmétiques
+Cosmetics=Cosmétiques
+
+Here you can equip cosmetics for your character. All MoreCompany cosmetics mods are compatible. You can change your cosmetics while in-game.=Ici, vous pouvez équiper des cosmétiques pour votre personnage. Tous les mods cosmétiques de MoreCompany sont compatibles. Vous pouvez changer vos cosmétiques en cours de jeu.
+
+Drag to rotate=Glisser pour faire pivoter
+
+#Lobby
+Lobby=Hall d'entrée
+Lobby size:=Taille du hall d'entrée:
+
+Keep open - EXPERIMENTAL=Maintenir ouvert - EXPÉRIMENTAL
+When activated your Steam lobby will be kept open and joinable when you are in orbit. You can also activate to allow joining of players while on a moon. This will put the players into spectator mode.=Lorsqu'activé, votre hall d'entrée Steam restera ouvert et accessible lorsque vous êtes en orbite. Vous pouvez également activer l'option pour permettre aux joueurs de se joindre pendant qu'ils sont sur une lune. Cela placera les joueurs en mode spectateur.
+Enabled:=Activé:
+Allow when landed:=Autoriser lors de l'atterrissage:
+
+Day settings=Paramètres de la journée
+Settings to change how days behave.=Paramètres pour modifier le comportement des journées.
+Length of day:=Durée du jour:
+
+Extend deadline=Prolonger la date limite
+When activated you can extend your deadline once per quota on the terminal with the command "extend".=Lorsqu'activé, vous pouvez prolonger votre date limite une fois par quota sur le terminal avec la commande "extend".
+Enabled:=Activé:
+
+Save suits after being fired=Enregistrer les combinaisons après etre Viré
+When activated will save your suits when you are getting fired.=Lorsqu'activée, cela sauvegardera vos combinaisons lorsque vous êtes licencié.
+Enabled:=Activé:
+
+Enable cosmetics=Activer les cosmétiques
+When activated players will have the ability to wear cosmetics.=Lorsqu'activé, les joueurs auront la possibilité de porter des cosmétiques.
+Enabled:=Activé:
+
+Save progress=Sauvegarder la progression
+When deactivated allows you to customize starting XP and XP multipliers.\nProgress for all players will be saved in the hosts save file and reset when not meeting the quota.=Lorsque désactivé, vous permet de personnaliser l'XP de départ et les multiplicateurs d'XP. La progression de tous les joueurs sera sauvegardée dans le fichier de sauvegarde de l'hôte et réinitialisée en cas de non-respect du quota.
+Enabled:=Activé:
+Start XP:=XP de départ:
+XP multiplier:=Multiplicateur d'XP:
+
+#Items
+Items=Objets
+Here you can activate and deactivate items. Deactivated items can't be purchased any longer. You can adjust the price and weight of items to balance your lobby.=Ici, vous pouvez activer et désactiver des objets. Les objets désactivés ne peuvent plus être achetés. Vous pouvez ajuster le prix et le poids des objets pour équilibrer votre hall d'entrée.
+
+General=Général
+
+Name=Nom
+Price=Prix
+Weight=Poids
+Maximum discount=Remise maximale
+
+Missile launcher:=Lance-missiles:
+Rocket boots:=Bottes à réaction:
+Flippers:=Palmes:
+Vision enhancer:=Améliorateur de vision:
+Bulletproof vest:=Gilet pare-balles:
+Lightning rod:=Paratonnerre:
+Helmet lamp:=Lampe de casque:
+Headset:=Casque:
+Radar booster:=Amplificateur radar:
+Zap gun:=Pistolet à décharge électrique:
+Walkie talkie:=Talkie-walkie:
+TZP inhalant:=Inhalateur TZP:
+Extension ladder:=Échelle télescopique:
+Stun grenade:=Grenade assourdissante:
+Shovel:=Pelle:
+Pro flashlight:=Lampe de professionnel:
+Lockpicker:=Crochet de serrure:
+Jetpack:=Propulseur dorsal:
+Flashlight:=Lampe de poche:
+Boombox:=Radio portable:
+Spray paint:=Bombe de peinture:
+
+> Add item=Ajouter un objet
+
+Vision enhancer=Améliorateur de vision
+Here you can change parameters for the vision enhancer.=Ici, vous pouvez changer les paramètres pour l'améliorateur de vision.
+
+Battery life:=Durée de la batterie :
+secs=secs
+
+Bulletproof vest=Gilet pare-balles
+Here you can change parameters for the bulletproof vest.=Ici, vous pouvez changer les paramètres pour le gilet pare-balles.
+
+Max damage:=Dommages max:
+Destroy on no health:=Détruire en cas de santé nulle:
+Turret damage:=Dommages de tourelle:
+Shotgun damage:=Dommages de fusil à pompe:
+Damage reduction at full health:=Réduction des dommages à pleine santé:
+Damage reduction at no health:=Réduction des dommages en cas de santé nulle:
+
+#Avantages
+Perks=Avantages
+
+Here you can configure which perks to activate. All defined base values will get applied regardless of the active state of the perk, enabling you to use the perks just as a way to tweak your game without using perks.\n\nThe costs are a comma-separated list containing the XP costs for each level. The max level of a perk is determined by the count of values provided.=Ici, vous pouvez configurer quels avantages activer. Toutes les valeurs de base définies seront appliquées indépendamment de l'état actif de l'avantage, vous permettant d'utiliser les avantages comme une façon d'ajuster votre jeu sans les utiliser.\n\nLes coûts sont une liste séparée par des virgules contenant les coûts en XP pour chaque niveau. Le niveau maximum d'un avantage est déterminé par le nombre de valeurs fournies.
+
+Player perks=Avantages du joueur
+Player perks can be purchased by every player individually and will only have an effect for the player who've bought them.=Les avantages du joueur peuvent être achetés individuellement par chaque joueur et n'auront d'effet que pour le joueur qui les a achetés.
+
+Perk=Avantage
+Base=Base
+Change=Changement
+Costs=Coûts
+
+Sprint speed:=Vitesse de sprint:
+Jump height:=Hauteur de saut:
+Jump stamina:=Endurance de saut:
+Sprint stamina:=Endurance de sprint:
+Fall damage:=Dommages de chute :
+Damage:=Dommages:
+Weight:=Poids:
+Critical strike chance:=Chance de coup critique:
+Climbing speed:=Vitesse d'escalade:
+Inventory slots:=Emplacements d'inventaire:
+
+Ship perks=Vaisseau
+Ship perks can be purchased by every player for the whole crew and they will have an effect for the entire team.=Les avantages du vaisseau peuvent être achetés par chaque joueur pour l'équipage entier et auront un effet pour toute l'équipe.
+
+Perk=Avantage
+Base=Base
+Change=Changement
+Costs=Coûts
+
+Scan distance:=Distance de scan:
+Extra battery:=Batterie supplémentaire:
+Extend deadline discount:=Remise de prolongation de la date limite :
+Landing speed:=Vitesse d'atterrissage:
+Delivery speed:=Vitesse de livraison:
+Save loot:=Sauvegarder le butin:
+Travel discount:=Remise de voyage:
+
+#Lunes
+Moons=Lunes
+
+To balance the game you can apply weather modifiers and change thr prices for moons here:=Pour équilibrer le jeu, vous pouvez appliquer des modificateurs météorologiques et changer les prix des lunes ici:
+
+Weather modifiers=Modificateurs météorologiques (Ferraille)
+If activated you can change the scrap value and amount when certain weather is present on a moon.=Si activé, vous pouvez modifier la valeur et la quantité de ferraille lorsqu'une certaine météo est présente sur une lune.
+
+Enabled:=Activé:
+
+Weather=Météo
+Scrap value=Valeur
+scrap amount=Quantité
+
+Moon prices=Prix des lunes (Ferraille)
+If activated you can change the prices for moons.=Si activé, vous pouvez modifier les prix des lunes, ainsi que la valeur et la quantité de ferraille.
+
+Enabled:=Activé:
+
+Moons=Lunes
+Prix=Prix
+Scrap value=Valeur
+Scrap amount=Quantité
+
+> Add moon=Ajouter une lune
