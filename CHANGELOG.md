@@ -1,3 +1,9 @@
+# v1.3.3
+
+Ajout de trad pour le mod challenge <br />
+Trad de mods supplémentaires : LCBetterSaves by Pooble AdvancedCompany by PotatoePet <br /> par Katsugami
+corrections sur le [LMB] de l'inhalateur tzp qui devrait afficher le bon truc (normalement)
+
 # v1.3.2
 
 Traduction d'enormément de mods (merci à Katsugami)
