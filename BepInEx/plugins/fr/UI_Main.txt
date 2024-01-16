@@ -44,6 +44,22 @@ PRIVATE means you must send invites through Steam for players to join.=AMIS UNIQ
 [ Confirm ]=[Confirmer]
 [ Back ]=[Retour]
 
+# v47  (challenge moons/lunes de défi Besoin de trad a l'écran des résultats du défi, j'arrive pas a faire le regex pour le 'X Collected la)
+
+This is the weekly challenge moon. You have one day to make as much profit as possible.=C'est la lune de défi hebdomadaire. Vous n'avez qu'un seul jour pour faire le plus de profit possible.
+AS MUCH PROFIT AS POSSIBLE=LE PLUS DE PROFIT POSSIBLE
+CHALLENGE RESULTS:=RESULTATS DU DÉFI:
+Your rank:=Votre rang:
+(See how you compare to friends in the main menu leaderboard!)=(Comparez vos scores avec celui de vos amis dans le classement du menu principal!)
+Sort: Friends=Trier: Amis
+Sort: Similar rank=Trier: de rang similaire
+Sort: Top 20=Trier: Top 20
+[ Remove my score ]=[Supprimer mon score]
+[ Play again ]=[Retenter]
+Deceased=Mort
+Alive=Vivant
+(Removed score)=(Score retiré)
+
 Started server, joining...=Serveur démarré, en train de rejoindre...
 Loading...=Chargement...
 
