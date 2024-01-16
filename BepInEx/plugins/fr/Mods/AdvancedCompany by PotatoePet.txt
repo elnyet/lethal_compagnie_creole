@@ -10,6 +10,18 @@ Preset saved=Préréglage enregistré
 > Save=Enregistrer
 > Continue=Continuer
 
+Name new preset=Nom du nouveau préréglage
+Please set a new name for your preset. If you enter an already existing name, you will override that existing preset:=Définissez un nouveau nom pour votre préréglage. Si le nom existe déjà, il sera remplacé.
+New Preset=Nouveau Préréglage
+
+Delete preset=Supprimer le préréglage
+#Arrive pas a le traduit , je ne trouve pas la syntaxe d'ecriture de la variable
+Do you really want to remove "([^"]+)"? This step is irreversible.=Voulez-vous vraiment supprimer "$1"?Cette étape est irréversible.
+> Abort=Annuler
+> Confirm=Confirmer
+
+Rename preset=Renommer le préréglage
+Please set a name for your preset. If you enter an already existing name, you will override that existing preset:=Veuillez définir un nom pour votre préréglage. Si vous entrez un nom déjà existant, vous écraserez le préréglage existant.
 
 #File
 File=Fichier
