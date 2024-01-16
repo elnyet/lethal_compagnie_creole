@@ -1,0 +1,2 @@
+Hold: [Alt]=Maintenez: [ALT]
+Hold: []=Maintenez: []
