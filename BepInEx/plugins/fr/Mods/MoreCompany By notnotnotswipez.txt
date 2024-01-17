@@ -1,4 +1,4 @@
-Crew Size:=Taille de l'équipage
+Crew Size:=Joueurs max.
 v45 (MC)=V45 (MC)
 Cosmetics Enabled:=Activer les Cosmétiques:
 
