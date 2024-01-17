@@ -14,7 +14,7 @@ Level up to earn more skill points. You can level up by picking scrap and killin
 
 HPR:=HPR :
 Health Regen=Régénération de santé
-The company installs a basic healer into your suit, letting you regenerate health slowly. Only regenerate up to 100 HP.=La société installe un guérisseur de base dans votre combinaison, vous permettant de régénérer lentement votre santé. Régénérez uniquement jusqu'à 100 points de vie.
+The company installs a basic healer into your suit, letting you regenerate health slowly. Only regenerate up to 100 HP.=L'entreprise installe un guérisseur de base dans votre combinaison, vous permettant de régénérer lentement votre santé. Régénérez uniquement jusqu'à 100 points de vie.
 (+0% Health Regeneration)=(+0% Récupération de santé)
 (+0,05% Health Regeneration)=(+0,05% Récupération de santé)
 (+0,1% Health Regeneration)=(+0,1% Récupération de santé)
@@ -64,7 +64,7 @@ Hours on that company gym finally coming into play. Allows you to run for longer
 
 BAT:=BAT :
 Battery Life=Autonomie de la Batterie
-The company provides you with better batteries. Replace your batteries AT THE SHIP'S CHARGER to see an effect.=La société vous fournit des batteries de meilleure qualité. Remplacez vos batteries AU CHARGEUR DU VAISSEAU pour constater un effet.
+The company provides you with better batteries. Replace your batteries AT THE SHIP'S CHARGER to see an effect.=L'entreprise vous fournit des batteries de meilleure qualité. Remplacez vos batteries AU CHARGEUR DU VAISSEAU pour constater un effet.
 (+0% Battery Life)=(+0% Autonomie de la batterie)
 (+5% Battery Life)=(+5% Autonomie de la batterie)
 (+10% Battery Life)=(+10% Autonomie de la batterie)
@@ -125,7 +125,7 @@ The company finally gives you a better belt! Fit more stuff! (Reach 100% for one
 
 VAL:=VAL :
 Loot Value=Valeur du Butin
-The company gives you a better pair of eyes, allowing you to see the value in things.=La société vous offre une paire de yeux améliorée, vous permettant de percevoir la valeur des choses.
+The company gives you a better pair of eyes, allowing you to see the value in things.=L'entreprise vous offre une paire de yeux améliorée, vous permettant de percevoir la valeur des choses.
 (+0% Loot Value)=(+0% Augmentation de la valeur du butin)
 (+0,25% Loot Value)=(+0,25% Augmentation de la valeur du butin)
 (+0,5% Loot Value)=(+0,50% Augmentation de la valeur du butin)
