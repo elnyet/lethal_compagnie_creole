@@ -1,1 +1,4 @@
 No enemies to spectate=Pas d'ennemis à regarder
+Swap between Players/Enemies=<color\=#f542a4>[SE]</color> Regarder les Joueurs/Ennemis
+Open Config Menu=<color\=#f542a4>[SE]</color> Ouvrir menu de config
+Toggle Flashlight=<color\=#f542a4>[SE]</color> Éclairer la zone
