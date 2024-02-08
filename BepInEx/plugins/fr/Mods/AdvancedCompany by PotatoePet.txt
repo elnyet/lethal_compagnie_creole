@@ -34,7 +34,7 @@ When activated your progression file will be saved in your profile folder.=Lorsq
 Enable:=Activer:
 
 #Graphiques
-Graphics=Graphiques
+Graphics=Graphismes
 
 Vision enhancer=Améliorateur de vision
 Change how the vision enhancer looks.=Modifiez l'apparence de l'améliorateur de vision.
@@ -70,16 +70,16 @@ Here you can equip cosmetics for your character. All MoreCompany cosmetics mods 
 Drag to rotate=Glisser pour faire pivoter
 
 #Lobby
-Lobby=Hall d'entrée
-Lobby size:=Taille du hall d'entrée:
+Lobby=Salon
+Lobby size:=Taille du salon:
 
 Keep open - EXPERIMENTAL=Maintenir ouvert - EXPÉRIMENTAL
-When activated your Steam lobby will be kept open and joinable when you are in orbit. You can also activate to allow joining of players while on a moon. This will put the players into spectator mode.=Lorsqu'activé, votre hall d'entrée Steam restera ouvert et accessible lorsque vous êtes en orbite. Vous pouvez également activer l'option pour permettre aux joueurs de se joindre pendant qu'ils sont sur une lune. Cela placera les joueurs en mode spectateur.
+When activated your Steam lobby will be kept open and joinable when you are in orbit. You can also activate to allow joining of players while on a moon. This will put the players into spectator mode.=Lorsqu'activé, votre salon Steam restera ouvert et accessible lorsque vous êtes en orbite. Vous pouvez également activer l'option pour permettre aux joueurs de se joindre pendant qu'ils sont sur une lune. Cela placera les joueurs en mode spectateur.
 Enabled:=Activé:
-Allow when landed:=Autoriser lors de l'atterrissage:
+Allow when landed:=Autoriser à l'atterrissage:
 
-Extend deadline=Prolonger la date limite
-When activated you can extend your deadline once per quota on the terminal with the command "extend".=Lorsqu'activé, vous pouvez prolonger votre date limite une fois par quota sur le terminal avec la commande "extend".
+Extend deadline=Prolonger l'échéance
+When activated you can extend your deadline once per quota on the terminal with the command "extend".=Lorsqu'activé, vous pouvez prolonger votre échéance une fois par quota sur le terminal avec la commande "extend".
 Enabled:=Activé:
 
 #Jeu
@@ -105,7 +105,7 @@ The extend deadline option adds a command to your portable terminal to extend yo
 Enabled:=Activé:
 Length of deadline:=Durée de la date limite:
 
-Save suits after being fired=Enregistrer les combinaisons après etre Viré
+Save suits after being fired=Enregistrer les combinaisons après un licenciement
 When activated will save your suits when you are getting fired.=Lorsqu'activée, cela sauvegardera vos combinaisons lorsque vous êtes licencié.
 Enabled:=Activé:
 
@@ -118,8 +118,7 @@ PLEASE NOTE: If you deactivate the portable terminal you won't have access to pe
 Enabled:=Activé:
 
 Save progress=Sauvegarder la progression
-When deactivated allows you to customize starting XP and XP multipliers.\nProgress for all players will be saved in the hosts save file and reset when not meeting the quota.=Lorsque désactivé, vous permet de personnaliser l'XP de départ et les multiplicateurs d'XP.\nLa progression de tous les joueurs sera sauvegardée dans le fichier de sauvegarde de l'hôte et réinitialisée en cas de non-respect du quota.
-Enabled:=Activé:
+When deactivated allows you to customize starting XP and XP multipliers.\nProgress for all players will be saved in the hosts save file and reset when not meeting the quota.=Lorsque désactivé, vous permet de personnaliser l'XP de départ et les multiplicateurs d'XP.  La progression de tous les joueurs sera sauvegardée dans le fichier de sauvegarde de l'hôte et réinitialisée en cas de non-respect du quota.Enabled:=Activé:
 Start XP:=XP de départ:
 XP multiplier:=Multiplicateur d'XP:
 
@@ -179,24 +178,24 @@ Speed:=Vitesse:
 
 Missile launcher:=Lance-missiles:
 Rocket boots:=Bottes à réaction:
-Flippers:=Palmes:
-Vision enhancer:=Améliorateur de vision:
-Bulletproof vest:=Gilet pare-balles:
-Lightning rod:=Paratonnerre:
-Helmet lamp:=Lampe de casque:
-Headset:=Casque:
-Radar booster:=Amplificateur radar:
-Zap gun:=Pistolet à décharge électrique:
-Walkie talkie:=Talkie-walkie:
-TZP inhalant:=Inhalateur TZP:
-Extension ladder:=Échelle télescopique:
-Stun grenade:=Grenade assourdissante:
-Shovel:=Pelle:
-Pro flashlight:=Lampe de professionnel:
-Lockpicker:=Crochet de serrure:
-Jetpack:=Propulseur dorsal:
-Flashlight:=Lampe de poche:
-Boombox:=Radio portable:
+Flippers:=Palmes:	
+Vision enhancer:=Améliorateur de vision:	
+Bulletproof vest:=Gilet pare-balles:	
+Lightning rod:=Paratonnerre:	
+Helmet lamp:=Lampe de casque:	
+Headset:=Casque:	
+Radar booster:=Amplificateur radar:	
+Zap gun:=Tazer:	
+Walkie talkie:=Talkie-walkie:	
+TZP inhalant:=Inhalateur TZP:	
+Extension ladder:=Échelle portative:	
+Stun grenade:=Paralysante:	
+Pelle :=Pelle :	
+Pro flashlight:=Lampe torche PRO:	
+Lockpicker:=Kit de crochetage:	
+Jetpack :=Jetpack :	
+Flashlight:=Lampe torche:	
+Boombox :=Radio portable :	
 Spray paint:=Bombe de peinture:
 
 #Avantages
@@ -204,10 +203,9 @@ Perks=Avantages
 
 Here you can configure which perks to activate. All defined base values will get applied regardless of the active state of the perk, enabling you to use the perks just as a way to tweak your game without using perks.\n\nThe costs are a comma-separated list containing the XP costs for each level. The max level of a perk is determined by the count of values provided.=Ici, vous pouvez configurer quels avantages activer. Toutes les valeurs de base définies seront appliquées indépendamment de l'état actif de l'avantage, vous permettant d'utiliser les avantages comme une façon d'ajuster votre jeu sans les utiliser.\n\nLes coûts sont une liste séparée par des virgules contenant les coûts en XP pour chaque niveau. Le niveau maximum d'un avantage est déterminé par le nombre de valeurs fournies.
 
-Player perks=Avantages du joueur
-Player perks can be purchased by every player individually and will only have an effect for the player who've bought them.=Les avantages du joueur peuvent être achetés individuellement par chaque joueur et n'auront d'effet que pour le joueur qui les a achetés.
-
-Perk=Avantage
+Player perks=Atouts de joueur
+Player perks can be purchased by every player individually and will only have an effect for the player who've bought them.=Les atouts de joueur peuvent être achetés individuellement par chaque joueur et n'auront d'effet que pour le joueur qui les a achetés.
+Perk=Atout
 Base=Base
 Change=Changement
 Costs=Coûts
@@ -216,28 +214,28 @@ Sprint speed:=Vitesse de sprint:
 Jump height:=Hauteur de saut:
 Jump stamina:=Endurance de saut:
 Sprint stamina:=Endurance de sprint:
-Fall damage:=Dommages de chute:
-Damage:=Dommages:
+Fall damage:=Dégâts de chute:
+Damage:=Dégâts:
 Weight:=Poids:
 Critical strike chance:=Chance de coup critique:
 Climbing speed:=Vitesse d'escalade:
 Inventory slots:=Emplacements d'inventaire:
 
-Ship perks=Vaisseau
+Ship perks=Atouts de vaisseau
 Ship perks can be purchased by every player for the whole crew and they will have an effect for the entire team.=Les avantages du vaisseau peuvent être achetés par chaque joueur pour l'équipage entier et auront un effet pour toute l'équipe.
 
-Perk=Avantage
+Perk=Atout
 Base=Base
 Change=Changement
 Costs=Coûts
 
 Scan distance:=Distance de scan:
 Extra battery:=Batterie supplémentaire:
-Extend deadline discount:=Remise de prolongation de la date limite:
+Extend deadline discount:=Remise sur prolongation de l'échéance:
 Landing speed:=Vitesse d'atterrissage:
 Delivery speed:=Vitesse de livraison:
-Save loot:=Sauvegarder le butin:
-Travel discount:=Remise de voyage:
+Save loot:=Sauvetage du butin:
+Travel discount:=Remise frais de déplacement:
 
 #Enemies
 Enemies=Ennemis
@@ -291,12 +289,12 @@ Rarity:=Rareté:
 
 #(Fin Zone de paramétrage)
 
-Weather modifiers=Modificateurs météo
+Weather modifiers=Modificateurs météorologiques (Objets)
 Here you can modify the scrap value and amount present on moons during specific weather conditions.=Ici, vous pouvez modifier la valeur et la quantité de ferraille présentes sur les lunes pendant des conditions météorologiques spécifiques.
 
 Weather=Météo
-Scrap amount=Quantité/ferraille
-Scrap value=Valeur/ferraille
+Scrap amount=Quantité
+Scrap value=Valeur
 Clear:=Clair
 Foggy:=Brumeux
 Rainy:=Pluvieux
