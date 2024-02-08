@@ -105,7 +105,7 @@ The extend deadline option adds a command to your portable terminal to extend yo
 Enabled:=Activé:
 Length of deadline:=Durée de la date limite:
 
-Save suits after being fired=Enregistrer les combinaisons après un licenciement
+Save suits after being fired=Enregistrer les skin après un licenciement
 When activated will save your suits when you are getting fired.=Lorsqu'activée, cela sauvegardera vos combinaisons lorsque vous êtes licencié.
 Enabled:=Activé:
 
