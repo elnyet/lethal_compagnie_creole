@@ -1,5 +1,6 @@
 #AdvancedCompany
-> AdvancedCompany settings=> Paramètres AdvancedCompany
+> AdvancedCompany settings=Paramètres AdvancedCompany
+> AdvancedCompany=AdvancedCompany
 
 #Préréglages
 Presets=Préréglages
@@ -12,11 +13,13 @@ Preset saved=Préréglage enregistré
 
 Name new preset=Nom du nouveau préréglage
 Please set a new name for your preset. If you enter an already existing name, you will override that existing preset:=Définissez un nouveau nom pour votre préréglage. Si le nom existe déjà, il sera remplacé.
-New Preset=Nouveau Préréglage
+New preset=Nouveau Préréglage
+Preset created=Préréglage créé 
+Preset deleted=Préréglage supprimé
 
 Delete preset=Supprimer le préréglage
-#Arrive pas a le traduit , je ne trouve pas la syntaxe d'ecriture de la variable
-Do you really want to remove "([^"]+)"? This step is irreversible.=Voulez-vous vraiment supprimer "$1"?Cette étape est irréversible.
+#Arrive pas a faire fonctionnée correctement mais il indique que le nom du preset en attandant
+r:"Do you really want to remove \"([^\"]+)\"[^.]+?"=Voulez-vous vraiment supprimer "$1" ?Cette étape est irréversible.
 > Abort=Annuler
 > Confirm=Confirmer
 
@@ -49,6 +52,16 @@ Hotbar spacing:=Espacement:
 
 Invert scroll:=Inverser le défilement:
 
+#Compatibilité
+
+Compability=Compatibilité
+Here you can change certain client side functionality for compability reasons. Those settings will mostly only take effect when applied BEFORE joining a game.=Ici, vous pouvez modifier certaines fonctionnalités côté client pour des raisons de compatibilité. Ces paramètres auront principalement un effet uniquement lorsqu'ils sont appliqués AVANT de rejoindre une partie.
+
+Disable music:=Désactiver la musique:
+Hide equipment:=Masquer l'équipement:
+Hide cosmetics:=Masquer les cosmétiques:
+Animation compability mode:=Mode de compatibilité d'animation:
+
 #Cosmétiques
 Cosmetics=Cosmétiques
 
@@ -60,20 +73,39 @@ Drag to rotate=Glisser pour faire pivoter
 Lobby=Salon
 Lobby size:=Taille du salon:
 
-Keep open - EXPERIMENTAL=Laisser ouvert - EXPÉRIMENTAL
-When activated your Steam lobby will be kept open and joinable when you are in orbit. You can also activate to allow joining of players while on a moon. This will put the players into spectator mode.=Lorsqu'activé, votre salon Steam restera ouvert et accessible lorsque vous êtes en orbite. Vous pouvez également activer l'option pour permettre aux joueurs de rejoindre en spectateur pendant une partie.
+Keep open - EXPERIMENTAL=Maintenir ouvert - EXPÉRIMENTAL
+When activated your Steam lobby will be kept open and joinable when you are in orbit. You can also activate to allow joining of players while on a moon. This will put the players into spectator mode.=Lorsqu'activé, votre salon Steam restera ouvert et accessible lorsque vous êtes en orbite. Vous pouvez également activer l'option pour permettre aux joueurs de se joindre pendant qu'ils sont sur une lune. Cela placera les joueurs en mode spectateur.
 Enabled:=Activé:
 Allow when landed:=Autoriser à l'atterrissage:
-
-Day settings=Paramètres de la journée
-Settings to change how days behave.=Paramètres pour modifier le comportement des journées.
-Length of day:=Durée du jour:
 
 Extend deadline=Prolonger l'échéance
 When activated you can extend your deadline once per quota on the terminal with the command "extend".=Lorsqu'activé, vous pouvez prolonger votre échéance une fois par quota sur le terminal avec la commande "extend".
 Enabled:=Activé:
 
-Save suits after being fired=Enregistrer les combinaisons après un licenciement
+#Jeu
+Game=Jeu
+
+Day settings=Paramètres de la journée
+Settings to change how days behave.=Paramètres pour modifier le comportement des journées.
+Length of day:=Durée du jour:
+
+Start settings=Paramètres de démarrage
+Settings to change how a round starts.=Paramètres pour changer comment une manche démarre.
+Start credits:=Crédits de départ:
+
+Global multipliers=Multiplicateurs globaux.
+Settings to change how much scrap spawns and how valuable it is and other stuff like enemy max power.=Paramètres pour changer la quantité de ferraille qui apparaît, sa valeur et d'autres choses comme la puissance maximale de l'ennemi.
+Value:=Valeur:
+Amount:=Quantité:
+Max enemy power:=Puissance maximale de l'ennemi:
+
+
+Deadline=Date limite:
+The extend deadline option adds a command to your portable terminal to extend your deadline once per quota. You can also change the length of the deadline in general. Changes to this variable only takes effect when starting a new game or quota=L'option de prolongation de la date limite ajoute une commande à votre terminal portable pour prolonger votre délai une fois par quota. Vous pouvez également modifier la durée de la date limite en général. Les modifications de cette variable ne prendront effet que lors du démarrage d'un nouveau jeu ou quota.
+Enabled:=Activé:
+Length of deadline:=Durée de la date limite:
+
+Save suits after being fired=Enregistrer les skin après un licenciement
 When activated will save your suits when you are getting fired.=Lorsqu'activée, cela sauvegardera vos combinaisons lorsque vous êtes licencié.
 Enabled:=Activé:
 
@@ -81,62 +113,90 @@ Enable cosmetics=Activer les cosmétiques
 When activated players will have the ability to wear cosmetics.=Lorsqu'activé, les joueurs auront la possibilité de porter des cosmétiques.
 Enabled:=Activé:
 
-Save progress=Sauvegarder la progression
-When deactivated allows you to customize starting XP and XP multipliers.\nProgress for all players will be saved in the hosts save file and reset when not meeting the quota.=Lorsque désactivé, vous permet de personnaliser l'XP de départ et les multiplicateurs d'XP. La progression de tous les joueurs sera sauvegardée dans le fichier de sauvegarde de l'hôte et réinitialisée en cas de non-respect du quota.
+Portable terminal=Terminal portable:
+PLEASE NOTE: If you deactivate the portable terminal you won't have access to perks as well. There is NO replacement!=NOTE: Si vous désactivez le terminal portable, vous n'aurez plus accès aux avantages non plus. Il n'y a AUCUN remplacement!
 Enabled:=Activé:
+
+Save progress=Sauvegarder la progression
+When deactivated allows you to customize starting XP and XP multipliers.\nProgress for all players will be saved in the hosts save file and reset when not meeting the quota.=Lorsque désactivé, vous permet de personnaliser l'XP de départ et les multiplicateurs d'XP.  La progression de tous les joueurs sera sauvegardée dans le fichier de sauvegarde de l'hôte et réinitialisée en cas de non-respect du quota.Enabled:=Activé:
 Start XP:=XP de départ:
 XP multiplier:=Multiplicateur d'XP:
 
 #Items
 Items=Objets
-Here you can activate and deactivate items. Deactivated items can't be purchased any longer. You can adjust the price and weight of items to balance your lobby.=Ici, vous pouvez activer et désactiver des objets. Les objets désactivés ne peuvent plus être achetés. Vous pouvez ajuster le prix et le poids des objets pour équilibrer votre hall d'entrée.
-
-General=Général
 
 Name=Nom
 Price=Prix
 Weight=Poids
 Maximum discount=Remise maximale
 
-Missile launcher:=Lance-missiles:
-Rocket boots:=Bottes à réaction:
-Flippers:=Palmes:
-Vision enhancer:=Améliorateur de vision:
-Bulletproof vest:=Gilet pare-balles:
-Lightning rod:=Paratonnerre:
-Helmet lamp:=Lampe de casque:
-Headset:=Casque:
-Radar booster:=Amplificateur radar:
-Zap gun:=Tazer:
-Walkie talkie:=Talkie-walkie:
-TZP inhalant:=Inhalateur TZP:
-Extension ladder:=Échelle portative:
-Stun grenade:=Paralysante:
-Shovel:=Pelle:
-Pro flashlight:=Lampe torche PRO:
-Lockpicker:=Kit de crochetage:
-Jetpack:=Jetpack:
-Flashlight:=Lampe torche:
-Boombox:=Radio portable:
-Spray paint:=Bombe de peinture:
+Store items=Articles:
+Here you can configure store items and if they should be activated.=Ici, vous pouvez configurer les articles du magasin et indiquer s'ils doivent être activés.
 
-> Add item=Ajouter un objet
+Unlockables=Déverrouillables:
+Here you can configure unlockables and if they should be purchaseable.=Ici, vous pouvez configurer les déverrouillables et indiquer s'ils doivent être achetables.
+
+Scrap items=Récupération:
+Here you can configure scrap items and if they should spawn.=Ici, vous pouvez configurer les objets de récupération et indiquer s'ils doivent apparaître.
 
 Vision enhancer=Améliorateur de vision
 Here you can change parameters for the vision enhancer.=Ici, vous pouvez changer les paramètres pour l'améliorateur de vision.
-
-Battery life:=Durée de la batterie :
+Battery life:=Durée de la batterie:
 secs=secs
 
 Bulletproof vest=Gilet pare-balles
 Here you can change parameters for the bulletproof vest.=Ici, vous pouvez changer les paramètres pour le gilet pare-balles.
-
 Max damage:=Dommages max:
 Destroy on no health:=Détruire en cas de santé nulle:
 Turret damage:=Dommages de tourelle:
 Shotgun damage:=Dommages de fusil à pompe:
 Damage reduction at full health:=Réduction des dommages à pleine santé:
 Damage reduction at no health:=Réduction des dommages en cas de santé nulle:
+
+Helmet lamp=Lampe de casque:
+Here you can change parameters for the helmet lamp.=Ici, vous pouvez modifier les paramètres de la lampe de casque.
+Battery life:=Durée de la batterie:
+secs=secs
+
+Headset=Casque:
+Here you can change parameters for the headset.=Ici, vous pouvez modifier les paramètres du casque audio.
+Battery life:=Durée de la batterie:
+secs=secs
+
+Tactical helmet=Casque tactique:
+Here you can change parameters for the tactical helmet.=Ici, vous pouvez modifier les paramètres du casque tactique.
+Battery life:=Durée de la batterie:
+secs=secs
+Battery life with light:=Durée de la batterie avec éclairage:
+secs=secs
+
+Flippers=Palmes:
+Here you can change parameters for the flippers.=Ici, vous pouvez modifier les paramètres des palmes.
+Speed:=Vitesse:
+
+#(Nom des Objet Traduit)
+
+Missile launcher:=Lance-missiles:
+Rocket boots:=Bottes à réaction:
+Flippers:=Palmes:	
+Vision enhancer:=Améliorateur de vision:	
+Bulletproof vest:=Gilet pare-balles:	
+Lightning rod:=Paratonnerre:	
+Helmet lamp:=Lampe de casque:	
+Headset:=Casque:	
+Radar booster:=Amplificateur radar:	
+Zap gun:=Tazer:	
+Walkie talkie:=Talkie-walkie:	
+TZP inhalant:=Inhalateur TZP:	
+Extension ladder:=Échelle portative:	
+Stun grenade:=Paralysante:	
+Pelle :=Pelle :	
+Pro flashlight:=Lampe torche PRO:	
+Lockpicker:=Kit de crochetage:	
+Jetpack :=Jetpack :	
+Flashlight:=Lampe torche:	
+Boombox :=Radio portable :	
+Spray paint:=Bombe de peinture:
 
 #Avantages
 Perks=Avantages
@@ -145,7 +205,6 @@ Here you can configure which perks to activate. All defined base values will get
 
 Player perks=Atouts de joueur
 Player perks can be purchased by every player individually and will only have an effect for the player who've bought them.=Les atouts de joueur peuvent être achetés individuellement par chaque joueur et n'auront d'effet que pour le joueur qui les a achetés.
-
 Perk=Atout
 Base=Base
 Change=Changement
@@ -163,7 +222,7 @@ Climbing speed:=Vitesse d'escalade:
 Inventory slots:=Emplacements d'inventaire:
 
 Ship perks=Atouts de vaisseau
-Ship perks can be purchased by every player for the whole crew and they will have an effect for the entire team.=Les atouts de vaisseau peuvent être achetés par chaque joueur pour l'équipage entier et auront un effet pour toute l'équipe.
+Ship perks can be purchased by every player for the whole crew and they will have an effect for the entire team.=Les avantages du vaisseau peuvent être achetés par chaque joueur pour l'équipage entier et auront un effet pour toute l'équipe.
 
 Perk=Atout
 Base=Base
@@ -178,28 +237,67 @@ Delivery speed:=Vitesse de livraison:
 Save loot:=Sauvetage du butin:
 Travel discount:=Remise frais de déplacement:
 
+#Enemies
+Enemies=Ennemis
+
+Enemies=Ennemis
+Here you can configure enemies power levels and if they should spawn at all.=Ici, vous pouvez configurer les niveaux de puissance des ennemis et décider s'ils doivent apparaître ou non.
+
 #Lunes
 Moons=Lunes
 
-To balance the game you can apply weather modifiers and change thr prices for moons here:=Pour équilibrer le jeu, vous pouvez appliquer des modificateurs météorologiques et changer les prix des lunes ici:
+Moons=Lunes
+Here you can configure moons, their loot tables and enemy spawn table. If a moon is missing from the list, start a game once and come back here after that. They should show up then.=Ici, vous pouvez configurer les lunes, leurs tables de butin et la table d'apparition des ennemis. Si une lune est manquante dans la liste, lancez une partie une fois et revenez ici après. Elles devraient apparaître alors.
+
+#(Zone de paramétrage)
+
+Price:=Prix:
+Dungeon size:=Taille du donjon:
+
+Scrap:=Ferraille:
+Min amount:=Quantité minimale:
+Max amount:=Quantité maximale:
+Amount multiplier:=Multiplicateur de quantité:
+Value multiplier:=Multiplicateur de valeur:
+
+Loot table:=Table de butin:
+Item name:=Nom de l'objet:
+Rarity:=Rareté:
+
+Daytime enemies:=Ennemis de jour:
+Max power:=Puissance maximale:
+Probability:=Probabilité:
+
+Daytime enemies list:=Liste des ennemis de jour:
+Enemy name:=Nom de l'ennemi:
+Rarity:=Rareté:
+
+Outside enemies:=Ennemis extérieurs:
+Max power:=Puissance maximale:
+
+Outside enemies list:=Liste des ennemis extérieurs:
+Enemy name:=Nom de l'ennemi:
+Rarity:=Rareté:
+
+Inside enemies:=Ennemis intérieurs:
+Max power:=Puissance maximale:
+Probability:=Probabilité:
+
+Inside enemies list:=Liste des ennemis intérieurs:
+Enemy name:=Nom de l'ennemi:
+Rarity:=Rareté:
+
+#(Fin Zone de paramétrage)
 
 Weather modifiers=Modificateurs météorologiques (Objets)
-If activated you can change the scrap value and amount when certain weather is present on a moon.=Si activé, vous pouvez modifier la valeur et la quantité d'objets lorsqu'une certaine météo est présente sur une lune.
-
-Enabled:=Activé:
+Here you can modify the scrap value and amount present on moons during specific weather conditions.=Ici, vous pouvez modifier la valeur et la quantité de ferraille présentes sur les lunes pendant des conditions météorologiques spécifiques.
 
 Weather=Météo
-Scrap value=Valeur
-scrap amount=Quantité
-
-Moon prices=Prix des lunes (Objets)
-If activated you can change the prices for moons.=Si activé, vous pouvez modifier les prix des lunes, ainsi que la valeur et la quantité de objets.
-
-Enabled:=Activé:
-
-Moons=Lunes
-Prix=Prix
-Scrap value=Valeur
 Scrap amount=Quantité
-
-> Add moon=Ajouter une lune
+Scrap value=Valeur
+Clear:=Clair
+Foggy:=Brumeux
+Rainy:=Pluvieux
+Flooded:=Inondé
+Stormy:=Orageux
+Eclipsed:=Éclipsé
