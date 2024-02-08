@@ -5,7 +5,7 @@
 #Préréglages
 Presets=Préréglages
 Preset saved=Préréglage enregistré
-> Create new=Créer un nouveau
+> Create new=Nouveau
 > Cancel=Annuler
 > Save as new preset=Enregistrer comme nouveau préréglage
 > Save=Enregistrer
@@ -100,8 +100,8 @@ Amount:=Quantité:
 Max enemy power:=Puissance maximale de l'ennemi:
 
 
-Deadline=Date limite:
-The extend deadline option adds a command to your portable terminal to extend your deadline once per quota. You can also change the length of the deadline in general. Changes to this variable only takes effect when starting a new game or quota=L'option de prolongation de la date limite ajoute une commande à votre terminal portable pour prolonger votre délai une fois par quota. Vous pouvez également modifier la durée de la date limite en général. Les modifications de cette variable ne prendront effet que lors du démarrage d'un nouveau jeu ou quota.
+Deadline=Échéance:
+The extend deadline option adds a command to your portable terminal to extend your deadline once per quota. You can also change the length of the deadline in general. Changes to this variable only takes effect when starting a new game or quota=L'option de prolongation de l'échéance ajoute une commande à votre terminal portable pour prolonger votre délai une fois par quota. Vous pouvez également modifier la durée de l'échéance en général. Les modifications de cette variable ne prendront effet que lors du démarrage d'un nouveau jeu ou quota.
 Enabled:=Activé:
 Length of deadline:=Durée de la date limite:
 
