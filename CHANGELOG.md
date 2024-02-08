@@ -1,3 +1,7 @@
+# v1.3.4
+
+Quelques fix que j'ai oublié parce que cette version était sur le github pdt un moment et j'avais la grosse flm de publier et des améliorations diverses pour AdvancedCompany
+
 # v1.3.3
 
 Ajout de trad pour le mod challenge <br />
