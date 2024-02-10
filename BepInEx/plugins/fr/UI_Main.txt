@@ -1,4 +1,4 @@
-﻿#Versione
+#Versione
 r:"^v([0-9]+)$"=v$1
 r:"(^[\s\S]+)(\[MODDED\])$"=$1[MODDÉ]
 
@@ -75,7 +75,8 @@ Sort: worldwide=Trier: Mondial
 Join=<size\=14>Rejoindre</size>
 > Back to menu=> Retour au menu
 
-r:"^Do you want to delete File ([0-9])\?$"=Voulez vous supprimer le fichier $1?
+r:"^Do you want to delete File (.*)\?$"=Voulez-vous supprimer le fichier $1?
+
 Delete=Supprimer
 Go back=Revenir en arrière
 Back=Retour
