@@ -30,6 +30,8 @@ Crawler=Rampant
 Turret=Tourelle
 MouthDog=Chien aveugle
 
+#Les Nom des monstre [] pour Tentée prochainement pour traduire les varriable
+
 [Baboon hawk]=[Faucon]
 [Bracken]=[Bracken]
 [Flowerman]=[Bracken]
