@@ -1,4 +1,5 @@
 #LCBetterSaves
+New File=Nouveau fichier
 BetterSaves=Sauvegardes
 
 #Aprées un renomée voici la bonne syntaxe
