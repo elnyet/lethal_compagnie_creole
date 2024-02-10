@@ -1,6 +1,6 @@
 #AdvancedCompany
-> AdvancedCompany settings=Paramètres AdvancedCompany
-> AdvancedCompany=AdvancedCompany
+> AdvancedCompany settings=> Paramètres AdvancedCompany
+> AdvancedCompany=> AdvancedCompany
 
 #Préréglages
 Presets=Préréglages
