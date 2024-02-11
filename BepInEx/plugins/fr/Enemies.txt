@@ -1,4 +1,4 @@
-﻿Baboon hawk=Faucon
+Baboon hawk=Faucon
 Bracken=Bracken
 Flowerman=Bracken
 Spring=Tete-de-ressort
@@ -29,3 +29,37 @@ Thumper=Rampant
 Crawler=Rampant
 Turret=Tourelle
 MouthDog=Chien aveugle
+
+#Les Nom des monstre [] pour Tentée prochainement pour traduire les varriable
+
+[Baboon hawk]=[Faucon]
+[Bracken]=[Bracken]
+[Flowerman]=[Bracken]
+[Spring]=[Tête-de-ressort]
+[Blob]=[Slime]
+[Bunker spider]=[Araignée]
+[Circuit bees]=[Abeilles électriques]
+[Coil-head]=[Tête-de-ressort]
+[Earth leviathan]=[Léviathan terrestre]
+[Eyeless dog]=[Chien aveugle]
+[Forest Giant]=[Garde forestier]
+[ForestGiant]=[Garde forestier]
+[Forest keeper]=[Garde forestier]
+[Ghost girl]=[Fille fantôme]
+[Girl]=[Fille fantôme]
+[Hoarding bug]=[Insecte accapareur]
+[Hygrodere]=[Slime]
+[Jeb]=[Jeb]
+[Jester]=[Bouffon]
+[Landmine]=[Mine]
+[Manticoil]=[Manticore]
+[Nutcracker]=[Casse-noisette]
+[Roaming locusts]=[Criquets errants]
+[Snare flea]=[Puce]
+[Puffer]=[Lezard à spores]
+[Centipede]=[Mille-pattes]
+[Spore lizard]=[Lezard à spores]
+[Thumper]=[Rampant]
+[Crawler]=[Rampant]
+[Turret]=[Tourelle]
+[MouthDog]=[Chien aveugle]

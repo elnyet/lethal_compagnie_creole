@@ -1,3 +1,5 @@
+#Les différents rangs de la compagnie mortelle.
+
 Boss=Chef
 Leader=Leader
 Employee=Employe

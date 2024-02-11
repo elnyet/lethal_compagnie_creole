@@ -1,2 +1,6 @@
 #LCBetterSaves
+New File=Nouveau fichier
 BetterSaves=Sauvegardes
+
+#Aprées un renomée voici la bonne syntaxe
+r:"^Do you want to delete file (.*)\?$"=Voulez-vous supprimer le fichier $1?

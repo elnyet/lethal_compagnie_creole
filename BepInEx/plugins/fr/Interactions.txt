@@ -1,4 +1,3 @@
-﻿
 #Oggetti interagibili
 
 #A-Z

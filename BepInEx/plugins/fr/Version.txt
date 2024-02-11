@@ -1,0 +1,12 @@
+#Version 47
+Version 47 is out!=La version 74 est disponible !
+
+Welcome!=Bienvenue !
+This patch includes the replayable challenge moons and new factory hallway types, as well as some tweaks to existing creatures.=Cette mise à jour inclut les lunes de défi rejouables et de nouveaux types de couloirs d'usine, ainsi que quelques ajustements aux créatures existantes.
+
+Others must update their game to play with you on this version.=Les autres doivent mettre à jour leur jeu pour jouer avec vous dans cette version.
+
+Good luck!=Bonne chance !
+
+
+Welcome!\nThis patch includes the replayable challenge moons and new factory hallway types, as well as some tweaks to existing creatures.\n\nOthers must update their game to play with you on this version.\n\n\nGood luck!=Bienvenue!\n\n\nCette mise à jour inclut les lunes de défi rejouables et de nouveaux types de couloirs d'usine, ainsi que quelques ajustements aux créatures existantes.\n\nBonne chance !
