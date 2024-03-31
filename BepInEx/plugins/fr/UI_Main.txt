@@ -109,3 +109,6 @@ Fines=Bilan
 r:"^Found journal entry(.+)"=Entree de journal obtenue$1 
 
 RECEIVING SIGNAL=TRANSMISSION ENTRANTE
+
+##Nom de la planette Evenement :
+Osne-9=Osne-9
