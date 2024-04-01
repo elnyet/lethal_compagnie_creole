@@ -54,7 +54,7 @@ Invert scroll:=Inverser le défilement:
 
 #Compatibilité
 
-Compability=Compatibilité
+Compatibility=Compatibilité
 Here you can change certain client side functionality for compability reasons. Those settings will mostly only take effect when applied BEFORE joining a game.=Ici, vous pouvez modifier certaines fonctionnalités côté client pour des raisons de compatibilité. Ces paramètres auront principalement un effet uniquement lorsqu'ils sont appliqués AVANT de rejoindre une partie.
 
 Disable music:=Désactiver la musique:
@@ -68,6 +68,11 @@ Cosmetics=Cosmétiques
 Here you can equip cosmetics for your character. All MoreCompany cosmetics mods are compatible. You can change your cosmetics while in-game.=Ici, vous pouvez équiper des cosmétiques pour votre personnage. Tous les mods cosmétiques de MoreCompany sont compatibles. Vous pouvez changer vos cosmétiques en cours de jeu.
 
 Drag to rotate=Glisser pour faire pivoter
+
+#Nom par defaut des Préréglage
+Default=Défaut
+Alternative=Alternative
+Mostly Vanilla=Mostly Vanilla
 
 #Lobby
 Lobby=Salon
@@ -121,9 +126,12 @@ Individual XP:=Individuel XP :
 Reset XP:=Réinitialiser XP :
 Start ship XP:=Démarrer le vaisseau XP :
 XP multiplier:=Multiplicateur d'XP:
+XP=XP
 
 Deactivate hotbar=Désactiver la barre d'outils
 WARNING: If you enable this setting, AdvancedCompany won't touch the hotbar and inventories at all. This means that the inventory perk gets auto deactivated, all equippable items, including cursed items, will get forcefully deactivated, the energy bars are removed, customization of the hotbar is removed, there wont be any hotkeys, neither flashlight nor quick access, added and no inventory fixes like flashlight fixes. This mode is experimental and there won't be any support for it whatsoever. If I see you using it and creating a GitHub issue relating to this mode it will get auto closed. Activating this option might result in unwanted results as the hotbar changes are a core function of AdvancedCompany. Spawning in and equipping any equipment item might break your game in unexpected ways.=ATTENTION : Si vous activez ce paramètre, AdvancedCompany ne touchera pas du tout à la barre de chauffe et aux inventaires. Cela signifie que la perk d'inventaire est automatiquement désactivée, que tous les objets équipables, y compris les objets maudits, seront désactivés de force, que les barres d'énergie sont supprimées, que la personnalisation de la barre de chauffe est supprimée, qu'il n'y aura pas de raccourcis clavier, ni de lampe de poche, ni d'accès rapide, ajoutés et qu'il n'y aura pas de correction d'inventaire comme celle de la lampe de poche. Ce mode est expérimental et il n'y aura pas de support pour lui. Si je vois que vous l'utilisez et que vous créez un problème GitHub relatif à ce mode, il sera automatiquement fermé. L'activation de cette option peut entraîner des résultats indésirables, car les modifications de la barre d'outils sont une fonction essentielle d'AdvancedCompany. Le fait d'entrer dans le jeu et d'équiper n'importe quel élément d'équipement peut perturber votre jeu de manière inattendue.
+
+Deactivate:=Désactiver :
 
 #Items
 Items=Objets

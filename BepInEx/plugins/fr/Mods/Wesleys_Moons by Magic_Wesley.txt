@@ -1,0 +1,13 @@
+94 Polarus=94 Polarus
+84 Junic=84 Junic
+76 Acidir=76 Acidir
+57 Asteroid-13=57 Astéroïde-13
+48 Desolation=48 Désolation
+46 Infernis=46 Infernis
+44 Atlantica=44 Atlantica
+42 Cosmocos=42 Cosmocos
+36 Gloom=36 Gloom
+25 Fission-C=25 Fission-C
+154 Etern=154 Etern
+147 Gratar=147 Gratar
+134 Oldred=134 Oldred
